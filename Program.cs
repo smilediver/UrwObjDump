@@ -92,8 +92,8 @@ namespace UrwObjDump {
 			var l = new List<string>();
 
 			l.Add(o.type.ToString());
-			l.Add('\"' + o.name.ToString() + '\"');
-			l.Add('\"' + o.group.ToString()+ '\"');
+			l.Add('\"' + o.name.ToString().Replace("\"", "\"\"") + '\"');
+			l.Add('\"' + o.group.ToString().Replace("\"", "\"\"")+ '\"');
 			l.Add(o.value.ToString());
 			l.Add(o.weight.ToString());
 			l.Add(o.weight2.ToString());
