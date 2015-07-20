@@ -1,401 +1,401 @@
-Type;Name;Group;Value;Weight;Weight2
-Jewelry;Necklace;tuntematon;224;1;1
-Food;blueberries;Blueberry shrub;0;0.1;0.1
-Plant;Blueberry shrub;Blueberry;0;0.1;0.1
-Food;lingonberries;Lingonberry shrub;0;0.1;0.1
-Plant;Lingonberry shrub;Lingonberry;0;0.1;0.1
-Food;cranberries;Cranberry shrub;0;0.05;0.05
-Plant;Cranberry shrub;Cranberry;0;0.05;0.05
-Food;northern bilberries;Northern bilberry shrub;0;0.1;0.1
-Plant;Northern bilberry shrub;Northern bilberry;0;0.1;0.1
-Food;cloudberries;Cloudberry bramble;0;0.2;0.2
-Container;Wooden tub;tuntematon;8;0;10
-Jewelry;Necklace;tuntematon;224;1;1
-Jewelry;Bracelet;tuntematon;200;1;1
-Jewelry;Anklet;tuntematon;176;1;1
-Plant;Cloudberry bramble;Cloudberry;0;0.2;0.2
-Food;strawberries;Strawberry shrub;0;0.1;0.1
-Plant;Strawberry shrub;Strawberry;0;0.1;0.1
-Food;crowberries;Crowberry shrub;0;0.1;0.1
-Plant;Crowberry shrub;Crowberry;0;0.1;0.1
-Food;raspberries;Raspberry bush;0;0.2;0.2
-Plant;Raspberry bush;Raspberry;0;0.2;0.2
-Food;black currants;Black currant bush;0;0.1;0.1
-Plant;Black currant bush;Black currant;0;0.1;0.1
-Container;Wooden mug;tuntematon;0;0;1
-Container;Wooden mug;tuntematon;0;0;1
-Container;Wooden cup;tuntematon;2.4;0;3
-Container;Wooden bowl;tuntematon;3.2;0;6
-Container;Birch-bark box;tuntematon;2;0;2
-Container;Birch-bark basket;tuntematon;6.8;0;15
-Food;Turnip seeds;Turnip;0;0.007358352;0.007358352
-Food;Egg;tuntematon;0.17;0.1;0.1
-Food;Turnip;Turnip;0;0.6622517;0.6622517
-Plant;Turnip;Turnip;0;0.6622517;0.6622517
-Food;peas;Pea;0;0.07726269;0.07726269
-Plant;Pea;Pea;0;0.07726269;0.07726269
-Food;broad beans;Broad bean;0;0.1545254;0.1545254
-Plant;Broad bean;Broad bean;0;0.1545254;0.1545254
-Food;Barley grains;Barley;0;0.1103753;0.1103753
-Plant;Barley;Barley;0;0.5;0.5
-Food;barley-flour;Barley;4.38;1;1
-Food;Rye grains;Rye;0;0.1103753;0.1103753
-Food;Rye bread;tuntematon;0.25;2;2
-Plant;Rye;Rye;0;0.5;0.5
-Food;rye-flour;Rye;3.96;1;1
-Food;Hemp seeds;Hemp;0;0.1103753;0.1103753
-Food;Hemp leaves;Hemp;0;0.075;0.075
-Container;Bag;tuntematon;16;0;20
-Food;Flat rye bread;tuntematon;0.25;0.4;0.4
-Plant;Hemp;Hemp;0;0.5;0.5
-Food;Nettle seeds;Nettle;0;0.02207506;0.02207506
-Food;Nettle leaves;Nettle;0;0.1;0.1
-Plant;Nettle;Nettle;0;0.5;0.5
-Food;Yarrow seeds;Yarrow;0;0.02207506;0.02207506
-Food;Yarrow leaves;Yarrow;0;0.025;0.025
-Food;Yarrow flowers;Yarrow;0;0.0375;0.0375
-Plant;Yarrow;Yarrow;0;0.5;0.5
-Food;Sorrel seeds;Sorrel;0;0.007358352;0.007358352
-Food;Sorrel leaves;Sorrel;0;0.025;0.025
-Plant;Sorrel;Sorrel;0;0.5;0.5
-Food;Meadsweet leaves;Meadsweet;0;0.2;0.2
-Food;Meadsweet flowers;Meadsweet;0;0.2;0.2
-Plant;Meadsweet;Meadsweet;0;0.5;0.5
-Food;Golden rod leaves;Golden rod;0;0.075;0.075
-Food;Golden rod flowers;Golden rod;0;0.1;0.1
-Plant;Golden rod;Golden rod;0;0.5;0.5
-Food;Heather flowers;Heather;0;0.025;0.025
-Plant;Heather;Heather;0;0.5;0.5
-Food;Black ear mushroom;Black ear mushroom;0;0.2;0.2
-Plant;Black ear mushroom;Black ear mushroom;0;0.2;0.2
-Food;Sand mushroom;Sand mushroom;0;0.2;0.2
-Plant;Sand mushroom;Sand mushroom;0;0.2;0.2
-Food;Noaidi's mushroom;Noaidi's mushroom;0;0.2;0.2
-Plant;Noaidi's mushroom;Noaidi's mushroom;0;0.2;0.2
-Tool;Rope;tuntematon;8;1;1
-Tool;Cord;tuntematon;0.8;0.5;0.5
-Tool;Leather rope;tuntematon;12;1;1
-Food;Yellowcoat mushroom;Yellowcoat mushroom;0;0.1;0.1
-Plant;Yellowcoat mushroom;Yellowcoat mushroom;0;0.1;0.1
-Food;Browncoat mushroom;Browncoat mushroom;0;0.1;0.1
-Plant;Browncoat mushroom;Browncoat mushroom;0;0.1;0.1
-Food;Bearpaw mushroom;Bearpaw mushroom;0;0.4;0.4
-Tool;Sauna scoop;tuntematon;2;0.5;0.5
-Plant;Bearpaw mushroom;Bearpaw mushroom;0;0.4;0.4
-Food;Hairy mushroom;Hairy mushroom;0;0.2;0.2
-Plant;Hairy mushroom;Hairy mushroom;0;0.2;0.2
-Food;Redlegger mushroom;Redlegger mushroom;0;0.1;0.1
-Plant;Redlegger mushroom;Redlegger mushroom;0;0.1;0.1
-Food;Yellow fingers mushroom;Yellow fingers mushroom;0;0.1;0.1
-Plant;Yellow fingers mushroom;Yellow fingers mushroom;0;0.1;0.1
-Food;Tellervo's gift mushroom;Tellervo's gift mushroom;0;0.1;0.1
-Tool;Tallow Candle;tuntematon;0.3;0.1;0.1
-Tool;Beeswax Candle;tuntematon;0.3;0.1;0.1
-Plant;Tellervo's gift mushroom;Tellervo's gift mushroom;0;0.1;0.1
-Food;Ukko's mushroom;Ukko's mushroom;0;0.4;0.4
-Tool;Torch;tuntematon;0.48;1;1
-Plant;Ukko's mushroom;Ukko's mushroom;0;0.4;0.4
-Food;Salt;tuntematon;0;4;4
-Container;Pot;tuntematon;224;0;6
-Tool;Shovel;tuntematon;120;4;4
-Tool;Wooden shovel;tuntematon;8;4;4
-Tool;Skis;tuntematon;40;12;12
-Tool;Ski stick;tuntematon;0.8;3;3
-Food;Soft mushroom;Soft mushroom;0;0.2;0.2
-Plant;Soft mushroom;Soft mushroom;0;0.2;0.2
-Food;Ringed mushroom;Ringed mushroom;0;0.1;0.1
-Plant;Ringed mushroom;Ringed mushroom;0;0.1;0.1
-Food;Mother pipe root;Mother pipe;0;0.3311258;0.3311258
-Food;Mother pipe leaves;Mother pipe;0;0.2;0.2
-Food;Mother pipe flowers;Mother pipe;0;0.2;0.2
-Plant;Mother pipe;Mother pipe;0;0.5;0.5
-Food;Bear pipe root;Bear pipe;0;0.3311258;0.3311258
-Food;Bear pipe leaves;Bear pipe;0;0.2;0.2
-Food;Bear pipe flowers;Bear pipe;0;0.2;0.2
-Plant;Bear pipe;Bear pipe;0;0.5;0.5
-Food;Dog pipe root;Dog pipe;0;0.1655629;0.1655629
-Food;Dog pipe leaves;Dog pipe;0;0.075;0.075
-Plant;Dog pipe;Dog pipe;0;0.5;0.5
-Food;Wolf pipe root;Wolf pipe;0;0.1655629;0.1655629
-Food;Wolf pipe leaves;Wolf pipe;0;0.075;0.075
-Armor;Bandage;tuntematon;0;1;1
-Armor;Linen undershirt;tuntematon;80;2.5;2.5
-Armor;Woollen undershirt;tuntematon;88;4;4
-Armor;Linen undergarment;tuntematon;144;3;3
-Armor;Woollen undergarment;tuntematon;160;5;5
-Armor;Linen shirt;tuntematon;120;3;3
-Armor;Nettle shirt;tuntematon;112;3;3
-Armor;Woollen shirt;tuntematon;128;4;4
-Armor;Linen tunic;tuntematon;160;6;6
-Armor;Nettle tunic;tuntematon;152;6;6
-Armor;Woollen tunic;tuntematon;168;7;7
-Armor;Woollen overcoat;tuntematon;176;8;8
-Armor;Woollen dress;tuntematon;128;5;5
-Armor;Linen dress;tuntematon;120;4;4
-Armor;Linen trousers;tuntematon;120;4;4
-Armor;Nettle trousers;tuntematon;112;4;4
-Armor;Woollen trousers;tuntematon;128;6;6
-Armor;Woollen leggings;tuntematon;96;4;4
-Armor;Nettle apron;tuntematon;80;3;3
-Armor;Linen apron;tuntematon;88;3;3
-Armor;Woollen apron;tuntematon;88;4;4
-Armor;Linen footrags;tuntematon;8;0.2;0.2
-Armor;Woollen socks;tuntematon;16;0.2;0.2
-Armor;Woollen footrags;tuntematon;16;0.2;0.2
-Armor;Linen veil;tuntematon;16;0.3;0.3
-Armor;Woollen veil;tuntematon;16;0.3;0.3
-Armor;Linen cowl;tuntematon;16;1;1
-Armor;Woollen cowl;tuntematon;16;1;1
-Armor;Nettle cowl;tuntematon;16;1;1
-Armor;Nettle cloak;tuntematon;48;6;6
-Armor;Woollen cloak;tuntematon;56;7;7
-Armor;Woollen mittens;tuntematon;16;0.2;0.2
-Armor;Leather cap;tuntematon;16;1;1
-Armor;Leather belt;tuntematon;16;1;1
-Armor;Leather shirt;tuntematon;120;6;6
-Armor;Leather leggings;tuntematon;96;2.916667;2.916667
-Armor;Leather shoes;tuntematon;40;1.5;1.5
-Armor;Laced leather shoes;tuntematon;56;1.5;1.5
-Armor;Fur cap;tuntematon;24;1;1
-Armor;Fur shirt;tuntematon;160;7;7
-Armor;Fur mittens;tuntematon;24;1;1
-Armor;Fur leggings;tuntematon;104;3.5;3.5
-Armor;Fur hood;tuntematon;32;1.076923;1.076923
-Armor;Fur footwear;tuntematon;96;2.8;2.8
-Armor;Fur cloak;tuntematon;240;14;14
-Armor;Birch-bark necklace;tuntematon;8;0.5;0.5
-Armor;Birch-bark shoes;tuntematon;16;0.8;0.8
-Armor;Birch-bark cap;tuntematon;8;0.9;0.9
-Armor;Leather shin guards;tuntematon;48;3;3
-Armor;Leather forearm guards;tuntematon;24;1.5;1.5
-Armor;Leather cuirass;tuntematon;80;4.5;4.5
-Armor;Fur overcoat;tuntematon;304;15;15
-Armor;Fur overcoat;tuntematon;304;15;15
-Armor;Fur overcoat;tuntematon;304;15;15
-Armor;Fur overcoat;tuntematon;304;15;15
-Armor;Fur overcoat;tuntematon;304;15;15
-Armor;Mail Cowl;tuntematon;360;3;3
-Armor;Long Mail Cowl;tuntematon;560;5;5
-Armor;Mail Habergeon;tuntematon;2576;22;22
-Armor;Mail Hauberk;tuntematon;3400;25;25
-Armor;Long Mail Hauberk;tuntematon;3600;30;30
-Armor;Mail Leggings;tuntematon;2760;23;23
-Armor;Mail Mittens;tuntematon;320;3;3
-Armor;Iron helm;tuntematon;400;3;3
-Armor;Iron spectacle helm;tuntematon;520;3.5;3.5
-Armor;Lamellar hauberk;tuntematon;3040;35;35
-Armor;Lamellar cuirass;tuntematon;2000;15;15
-Armor;Lamellar rerebraces;tuntematon;600;5;5
-Armor;Iron Coudes;tuntematon;200;2;2
-Armor;Lamellar forearm guards;tuntematon;504;4;4
-Armor;Iron Kneecops;tuntematon;296;2;2
-Armor;Lamellar shin guards;tuntematon;1200;9;9
-Plant;Wolf pipe;Wolf pipe;0;0.5;0.5
-Plant;Water lily;Water lily;0;0.5;0.5
-Plant;Riverpig;Riverpig;0;0.5;0.5
-Food;Clayweed seeds;Clayweed;0;0.1103753;0.1103753
-Food;Clayweed leaves;Clayweed;0;0.075;0.075
-Plant;Clayweed;Clayweed;0;0.5;0.5
-Food;Bogbean root;Bogbean;0;0.1655629;0.1655629
-Food;Bogbean leaves;Bogbean;0;0.075;0.075
-Plant;Bogbean;Bogbean;0;0.5;0.5
-Weapon;Roundshield;SHIELD;96;6;6
-Weapon;Buckler;SHIELD;32;3;3
-Tool;Hunting Horn;tuntematon;8;0.5;0.5
-Food;Marsh calla root;Marsh calla;0;0.1655629;0.1655629
-Container;Skin;tuntematon;16;0;5
-Food;Marsh calla leaves;Marsh calla;0;0.075;0.075
-Plant;Marsh calla;Marsh calla;0;0.5;0.5
-Food;Lake reed root;Lake reed;0;0.1103753;0.1103753
-Plant;Lake reed;Lake reed;0;0.5;0.5
-Food;Milkweed root;Milkweed;0;0.1655629;0.1655629
-Food;Milkweed leaves;Milkweed;0;0.0375;0.0375
-Plant;Milkweed;Milkweed;0;0.5;0.5
-Food;Pike;tuntematon;5;6.622517;6.622517
-Food;Roach;tuntematon;0.05;0.3311258;0.3311258
-Food;Perch;tuntematon;0.25;1.324503;1.324503
-Food;Bream;tuntematon;0.25;2.207505;2.207505
-Food;Pike-perch;tuntematon;4.5;3.532009;3.532009
-Food;Trout;tuntematon;6;7.726269;7.726269
-Food;Salmon;tuntematon;7.5;8.830022;8.830022
-Food;Burbot;tuntematon;1;2.649007;2.649007
-Food;Lavaret;tuntematon;3;2.207505;2.207505
-Tool;Fishing rod;tuntematon;4;1;1
-Food;Burdock root;Burdock;0;0.3311258;0.3311258
-Food;Burdock leaves;Burdock;0;0.2;0.2
-Plant;Burdock;Burdock;0;0.5;0.5
-Food;Stonecrop leaves;Stonecrop;0;0.025;0.025
-Plant;Stonecrop;Stonecrop;0;0.5;0.5
-Food;Roseroot root;Roseroot;0;0.1655629;0.1655629
-Food;Roseroot leaves;Roseroot;0;0.075;0.075
-Plant;Roseroot;Roseroot;0;0.5;0.5
-Tool;Loop snare;tuntematon;4;0.5;0.5
-Food;Bog flower leaves;Bog flower;0;0.025;0.025
-Plant;Bog flower;Bog flower;0;0.5;0.5
-Tool;"K�p�l�lauta"-Fox trap;tuntematon;8;3;3
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Tool;Paddle;tuntematon;4;3;3
-Watercraft;Punt;tuntematon;96;30;30
-Tool;Sesta;tuntematon;0.16;3;3
-Watercraft;Raft;tuntematon;32;80;80
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Weapon;Dagger;DAGGER;160;1;1
-Weapon;Knife;DAGGER;48;1;1
-Weapon;Throwing knife;DAGGER;120;1;1
-Weapon;Small knife;DAGGER;24;1;1
-Weapon;Broad knife;DAGGER;136;2;2
-Weapon;Hunting knife;DAGGER;160;2;2
-Weapon;Fisher's knife;DAGGER;120;2;2
-Weapon;Kaumolais knife;DAGGER;200;3;3
-Weapon;Northern knife;DAGGER;320;2;2
-Weapon;Skramasaksi;DAGGER;344;3;3
-Weapon;;SWORD;0;1;1
-Weapon;Shortsword;SWORD;600;2;2
-Weapon;Scimitar;SWORD;480;2;2
-Weapon;Broadsword;SWORD;920;3;3
-Weapon;;SWORD;0;4;4
-Weapon;Njerpezil�is Scimitar;SWORD;640;3;3
-Weapon;;SWORD;0;3;3
-Weapon;Bastard Sword;SWORD;1200;5;5
-Weapon;Battlesword;SWORD;1400;8;8
-Weapon;Club;CLUB;2;3;3
-Weapon;Mace;CLUB;400;4;4
-Weapon;;CLUB;0;5;5
-Weapon;Maul;CLUB;24;7;7
-Weapon;Sickle;AXE;136;1;1
-Weapon;Throwing axe;AXE;200;2;2
-Weapon;Handaxe;AXE;112;3;3
-Weapon;Handaxe;AXE;112;3;3
-Weapon;Warhammer;AXE;360;5;5
-Weapon;Battleaxe;AXE;640;6;6
-Weapon;Small flail;FLAIL;8;1;1
-Weapon;Grainflail;FLAIL;16;2;2
-Weapon;Ball & chain;FLAIL;320;4;4
-Weapon;Warflail;FLAIL;480;5;5
-Weapon;Javelin;SPEAR;2;3;3
-Weapon;Staff;SPEAR;2;4;4
-Weapon;Spear;SPEAR;344;5;5
-Weapon;Kaumolais spear;SPEAR;400;7;7
-Weapon;Trident;SPEAR;160;6;6
-Weapon;Small trident;SPEAR;120;5;5
-Weapon;Wide trident;SPEAR;200;8;8
-Weapon;Hard staff;SPEAR;16;5;5
-Weapon;Northern spear;SPEAR;360;7;7
-Weapon;Ango;SPEAR;480;8;8
-Weapon;Light spear;SPEAR;48;4;4
-Tool;Net;NET;144;4;4
-Weapon;Shortbow;BOW;40;2;2
-Weapon;Longbow;BOW;80;4;4
-Weapon;Crossbow;CROSSBOW;320;6;6
-Weapon;Heavy Crossbow;CROSSBOW;400;10;10
-Weapon;Juniper bow;BOW;16;2;2
-Weapon;Northern bow;BOW;176;3;3
-Weapon;Hunting bow;BOW;144;4;4
-Weapon;Arrow;BOW;8;0.1;0.1
-Weapon;Arrow;BOW;8;0.1;0.1
-Weapon;Arrow;BOW;8;0.1;0.1
-Weapon;Arrow;BOW;8;0.1;0.1
-Weapon;Arrow;BOW;8;0.1;0.1
-Weapon;Arrow;BOW;8;0.1;0.1
-Weapon;Arrow;BOW;8;0.1;0.1
-Weapon;Arrow;BOW;8;0.1;0.1
-Weapon;Arrow;BOW;8;0.1;0.1
-Weapon;Blunt arrow;BOW;4;0.4415011;0.4415011
-Weapon;Broadhead arrow;BOW;14.4;0.1766004;0.1766004
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Weapon;Broad axe;AXE;240;8.5;8.5
-Weapon;Carving axe;AXE;144;4.5;4.5
-Weapon;Splitting axe;AXE;200;6;6
-Weapon;Woodsman's axe;AXE;160;6;6
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Weapon;Stone;CLUB;0;14;14
-Weapon;Rock;CLUB;0;1;1
-Wood;Board;tuntematon;8;20;20
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Wood;Firewood;tuntematon;0.08;1.5;1.5
-Wood;Log;tuntematon;8;400;400
-Wood;Block of wood;tuntematon;0;40;40
-Wood;Branch;tuntematon;0;0.2;0.2
-Wood;Slender tree trunk;tuntematon;0;50;50
-Wood;Bark;tuntematon;0;2.5;2.5
-Wood;Tree trunk;tuntematon;0;500;500
-Wood;Wooden stake;tuntematon;0;2.2;2.2
-Wood;Spruce twig;tuntematon;0;0.2;0.2
-Weapon;Stone-axe;AXE;0.8;4;4
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
-Unused;*unmatchablestring*;tuntematon;0;0;0
+Type,Name,Group,Value,Weight,Weight2
+Jewelry,Necklace,tuntematon,224,1,1
+Food,blueberries,Blueberry shrub,0,0.1,0.1
+Plant,Blueberry shrub,Blueberry,0,0.1,0.1
+Food,lingonberries,Lingonberry shrub,0,0.1,0.1
+Plant,Lingonberry shrub,Lingonberry,0,0.1,0.1
+Food,cranberries,Cranberry shrub,0,0.05,0.05
+Plant,Cranberry shrub,Cranberry,0,0.05,0.05
+Food,northern bilberries,Northern bilberry shrub,0,0.1,0.1
+Plant,Northern bilberry shrub,Northern bilberry,0,0.1,0.1
+Food,cloudberries,Cloudberry bramble,0,0.2,0.2
+Container,Wooden tub,tuntematon,8,0,10
+Jewelry,Necklace,tuntematon,224,1,1
+Jewelry,Bracelet,tuntematon,200,1,1
+Jewelry,Anklet,tuntematon,176,1,1
+Plant,Cloudberry bramble,Cloudberry,0,0.2,0.2
+Food,strawberries,Strawberry shrub,0,0.1,0.1
+Plant,Strawberry shrub,Strawberry,0,0.1,0.1
+Food,crowberries,Crowberry shrub,0,0.1,0.1
+Plant,Crowberry shrub,Crowberry,0,0.1,0.1
+Food,raspberries,Raspberry bush,0,0.2,0.2
+Plant,Raspberry bush,Raspberry,0,0.2,0.2
+Food,black currants,Black currant bush,0,0.1,0.1
+Plant,Black currant bush,Black currant,0,0.1,0.1
+Container,Wooden mug,tuntematon,0,0,1
+Container,Wooden mug,tuntematon,0,0,1
+Container,Wooden cup,tuntematon,2.4,0,3
+Container,Wooden bowl,tuntematon,3.2,0,6
+Container,Birch-bark box,tuntematon,2,0,2
+Container,Birch-bark basket,tuntematon,6.8,0,15
+Food,Turnip seeds,Turnip,0,0.007358352,0.007358352
+Food,Egg,tuntematon,0.17,0.1,0.1
+Food,Turnip,Turnip,0,0.6622517,0.6622517
+Plant,Turnip,Turnip,0,0.6622517,0.6622517
+Food,peas,Pea,0,0.07726269,0.07726269
+Plant,Pea,Pea,0,0.07726269,0.07726269
+Food,broad beans,Broad bean,0,0.1545254,0.1545254
+Plant,Broad bean,Broad bean,0,0.1545254,0.1545254
+Food,Barley grains,Barley,0,0.1103753,0.1103753
+Plant,Barley,Barley,0,0.5,0.5
+Food,barley-flour,Barley,4.38,1,1
+Food,Rye grains,Rye,0,0.1103753,0.1103753
+Food,Rye bread,tuntematon,0.25,2,2
+Plant,Rye,Rye,0,0.5,0.5
+Food,rye-flour,Rye,3.96,1,1
+Food,Hemp seeds,Hemp,0,0.1103753,0.1103753
+Food,Hemp leaves,Hemp,0,0.075,0.075
+Container,Bag,tuntematon,16,0,20
+Food,Flat rye bread,tuntematon,0.25,0.4,0.4
+Plant,Hemp,Hemp,0,0.5,0.5
+Food,Nettle seeds,Nettle,0,0.02207506,0.02207506
+Food,Nettle leaves,Nettle,0,0.1,0.1
+Plant,Nettle,Nettle,0,0.5,0.5
+Food,Yarrow seeds,Yarrow,0,0.02207506,0.02207506
+Food,Yarrow leaves,Yarrow,0,0.025,0.025
+Food,Yarrow flowers,Yarrow,0,0.0375,0.0375
+Plant,Yarrow,Yarrow,0,0.5,0.5
+Food,Sorrel seeds,Sorrel,0,0.007358352,0.007358352
+Food,Sorrel leaves,Sorrel,0,0.025,0.025
+Plant,Sorrel,Sorrel,0,0.5,0.5
+Food,Meadsweet leaves,Meadsweet,0,0.2,0.2
+Food,Meadsweet flowers,Meadsweet,0,0.2,0.2
+Plant,Meadsweet,Meadsweet,0,0.5,0.5
+Food,Golden rod leaves,Golden rod,0,0.075,0.075
+Food,Golden rod flowers,Golden rod,0,0.1,0.1
+Plant,Golden rod,Golden rod,0,0.5,0.5
+Food,Heather flowers,Heather,0,0.025,0.025
+Plant,Heather,Heather,0,0.5,0.5
+Food,Black ear mushroom,Black ear mushroom,0,0.2,0.2
+Plant,Black ear mushroom,Black ear mushroom,0,0.2,0.2
+Food,Sand mushroom,Sand mushroom,0,0.2,0.2
+Plant,Sand mushroom,Sand mushroom,0,0.2,0.2
+Food,Noaidi's mushroom,Noaidi's mushroom,0,0.2,0.2
+Plant,Noaidi's mushroom,Noaidi's mushroom,0,0.2,0.2
+Tool,Rope,tuntematon,8,1,1
+Tool,Cord,tuntematon,0.8,0.5,0.5
+Tool,Leather rope,tuntematon,12,1,1
+Food,Yellowcoat mushroom,Yellowcoat mushroom,0,0.1,0.1
+Plant,Yellowcoat mushroom,Yellowcoat mushroom,0,0.1,0.1
+Food,Browncoat mushroom,Browncoat mushroom,0,0.1,0.1
+Plant,Browncoat mushroom,Browncoat mushroom,0,0.1,0.1
+Food,Bearpaw mushroom,Bearpaw mushroom,0,0.4,0.4
+Tool,Sauna scoop,tuntematon,2,0.5,0.5
+Plant,Bearpaw mushroom,Bearpaw mushroom,0,0.4,0.4
+Food,Hairy mushroom,Hairy mushroom,0,0.2,0.2
+Plant,Hairy mushroom,Hairy mushroom,0,0.2,0.2
+Food,Redlegger mushroom,Redlegger mushroom,0,0.1,0.1
+Plant,Redlegger mushroom,Redlegger mushroom,0,0.1,0.1
+Food,Yellow fingers mushroom,Yellow fingers mushroom,0,0.1,0.1
+Plant,Yellow fingers mushroom,Yellow fingers mushroom,0,0.1,0.1
+Food,Tellervo's gift mushroom,Tellervo's gift mushroom,0,0.1,0.1
+Tool,Tallow Candle,tuntematon,0.3,0.1,0.1
+Tool,Beeswax Candle,tuntematon,0.3,0.1,0.1
+Plant,Tellervo's gift mushroom,Tellervo's gift mushroom,0,0.1,0.1
+Food,Ukko's mushroom,Ukko's mushroom,0,0.4,0.4
+Tool,Torch,tuntematon,0.48,1,1
+Plant,Ukko's mushroom,Ukko's mushroom,0,0.4,0.4
+Food,Salt,tuntematon,0,4,4
+Container,Pot,tuntematon,224,0,6
+Tool,Shovel,tuntematon,120,4,4
+Tool,Wooden shovel,tuntematon,8,4,4
+Tool,Skis,tuntematon,40,12,12
+Tool,Ski stick,tuntematon,0.8,3,3
+Food,Soft mushroom,Soft mushroom,0,0.2,0.2
+Plant,Soft mushroom,Soft mushroom,0,0.2,0.2
+Food,Ringed mushroom,Ringed mushroom,0,0.1,0.1
+Plant,Ringed mushroom,Ringed mushroom,0,0.1,0.1
+Food,Mother pipe root,Mother pipe,0,0.3311258,0.3311258
+Food,Mother pipe leaves,Mother pipe,0,0.2,0.2
+Food,Mother pipe flowers,Mother pipe,0,0.2,0.2
+Plant,Mother pipe,Mother pipe,0,0.5,0.5
+Food,Bear pipe root,Bear pipe,0,0.3311258,0.3311258
+Food,Bear pipe leaves,Bear pipe,0,0.2,0.2
+Food,Bear pipe flowers,Bear pipe,0,0.2,0.2
+Plant,Bear pipe,Bear pipe,0,0.5,0.5
+Food,Dog pipe root,Dog pipe,0,0.1655629,0.1655629
+Food,Dog pipe leaves,Dog pipe,0,0.075,0.075
+Plant,Dog pipe,Dog pipe,0,0.5,0.5
+Food,Wolf pipe root,Wolf pipe,0,0.1655629,0.1655629
+Food,Wolf pipe leaves,Wolf pipe,0,0.075,0.075
+Armor,Bandage,tuntematon,0,1,1
+Armor,Linen undershirt,tuntematon,80,2.5,2.5
+Armor,Woollen undershirt,tuntematon,88,4,4
+Armor,Linen undergarment,tuntematon,144,3,3
+Armor,Woollen undergarment,tuntematon,160,5,5
+Armor,Linen shirt,tuntematon,120,3,3
+Armor,Nettle shirt,tuntematon,112,3,3
+Armor,Woollen shirt,tuntematon,128,4,4
+Armor,Linen tunic,tuntematon,160,6,6
+Armor,Nettle tunic,tuntematon,152,6,6
+Armor,Woollen tunic,tuntematon,168,7,7
+Armor,Woollen overcoat,tuntematon,176,8,8
+Armor,Woollen dress,tuntematon,128,5,5
+Armor,Linen dress,tuntematon,120,4,4
+Armor,Linen trousers,tuntematon,120,4,4
+Armor,Nettle trousers,tuntematon,112,4,4
+Armor,Woollen trousers,tuntematon,128,6,6
+Armor,Woollen leggings,tuntematon,96,4,4
+Armor,Nettle apron,tuntematon,80,3,3
+Armor,Linen apron,tuntematon,88,3,3
+Armor,Woollen apron,tuntematon,88,4,4
+Armor,Linen footrags,tuntematon,8,0.2,0.2
+Armor,Woollen socks,tuntematon,16,0.2,0.2
+Armor,Woollen footrags,tuntematon,16,0.2,0.2
+Armor,Linen veil,tuntematon,16,0.3,0.3
+Armor,Woollen veil,tuntematon,16,0.3,0.3
+Armor,Linen cowl,tuntematon,16,1,1
+Armor,Woollen cowl,tuntematon,16,1,1
+Armor,Nettle cowl,tuntematon,16,1,1
+Armor,Nettle cloak,tuntematon,48,6,6
+Armor,Woollen cloak,tuntematon,56,7,7
+Armor,Woollen mittens,tuntematon,16,0.2,0.2
+Armor,Leather cap,tuntematon,16,1,1
+Armor,Leather belt,tuntematon,16,1,1
+Armor,Leather shirt,tuntematon,120,6,6
+Armor,Leather leggings,tuntematon,96,2.916667,2.916667
+Armor,Leather shoes,tuntematon,40,1.5,1.5
+Armor,Laced leather shoes,tuntematon,56,1.5,1.5
+Armor,Fur cap,tuntematon,24,1,1
+Armor,Fur shirt,tuntematon,160,7,7
+Armor,Fur mittens,tuntematon,24,1,1
+Armor,Fur leggings,tuntematon,104,3.5,3.5
+Armor,Fur hood,tuntematon,32,1.076923,1.076923
+Armor,Fur footwear,tuntematon,96,2.8,2.8
+Armor,Fur cloak,tuntematon,240,14,14
+Armor,Birch-bark necklace,tuntematon,8,0.5,0.5
+Armor,Birch-bark shoes,tuntematon,16,0.8,0.8
+Armor,Birch-bark cap,tuntematon,8,0.9,0.9
+Armor,Leather shin guards,tuntematon,48,3,3
+Armor,Leather forearm guards,tuntematon,24,1.5,1.5
+Armor,Leather cuirass,tuntematon,80,4.5,4.5
+Armor,Fur overcoat,tuntematon,304,15,15
+Armor,Fur overcoat,tuntematon,304,15,15
+Armor,Fur overcoat,tuntematon,304,15,15
+Armor,Fur overcoat,tuntematon,304,15,15
+Armor,Fur overcoat,tuntematon,304,15,15
+Armor,Mail Cowl,tuntematon,360,3,3
+Armor,Long Mail Cowl,tuntematon,560,5,5
+Armor,Mail Habergeon,tuntematon,2576,22,22
+Armor,Mail Hauberk,tuntematon,3400,25,25
+Armor,Long Mail Hauberk,tuntematon,3600,30,30
+Armor,Mail Leggings,tuntematon,2760,23,23
+Armor,Mail Mittens,tuntematon,320,3,3
+Armor,Iron helm,tuntematon,400,3,3
+Armor,Iron spectacle helm,tuntematon,520,3.5,3.5
+Armor,Lamellar hauberk,tuntematon,3040,35,35
+Armor,Lamellar cuirass,tuntematon,2000,15,15
+Armor,Lamellar rerebraces,tuntematon,600,5,5
+Armor,Iron Coudes,tuntematon,200,2,2
+Armor,Lamellar forearm guards,tuntematon,504,4,4
+Armor,Iron Kneecops,tuntematon,296,2,2
+Armor,Lamellar shin guards,tuntematon,1200,9,9
+Plant,Wolf pipe,Wolf pipe,0,0.5,0.5
+Plant,Water lily,Water lily,0,0.5,0.5
+Plant,Riverpig,Riverpig,0,0.5,0.5
+Food,Clayweed seeds,Clayweed,0,0.1103753,0.1103753
+Food,Clayweed leaves,Clayweed,0,0.075,0.075
+Plant,Clayweed,Clayweed,0,0.5,0.5
+Food,Bogbean root,Bogbean,0,0.1655629,0.1655629
+Food,Bogbean leaves,Bogbean,0,0.075,0.075
+Plant,Bogbean,Bogbean,0,0.5,0.5
+Weapon,Roundshield,SHIELD,96,6,6
+Weapon,Buckler,SHIELD,32,3,3
+Tool,Hunting Horn,tuntematon,8,0.5,0.5
+Food,Marsh calla root,Marsh calla,0,0.1655629,0.1655629
+Container,Skin,tuntematon,16,0,5
+Food,Marsh calla leaves,Marsh calla,0,0.075,0.075
+Plant,Marsh calla,Marsh calla,0,0.5,0.5
+Food,Lake reed root,Lake reed,0,0.1103753,0.1103753
+Plant,Lake reed,Lake reed,0,0.5,0.5
+Food,Milkweed root,Milkweed,0,0.1655629,0.1655629
+Food,Milkweed leaves,Milkweed,0,0.0375,0.0375
+Plant,Milkweed,Milkweed,0,0.5,0.5
+Food,Pike,tuntematon,5,6.622517,6.622517
+Food,Roach,tuntematon,0.05,0.3311258,0.3311258
+Food,Perch,tuntematon,0.25,1.324503,1.324503
+Food,Bream,tuntematon,0.25,2.207505,2.207505
+Food,Pike-perch,tuntematon,4.5,3.532009,3.532009
+Food,Trout,tuntematon,6,7.726269,7.726269
+Food,Salmon,tuntematon,7.5,8.830022,8.830022
+Food,Burbot,tuntematon,1,2.649007,2.649007
+Food,Lavaret,tuntematon,3,2.207505,2.207505
+Tool,Fishing rod,tuntematon,4,1,1
+Food,Burdock root,Burdock,0,0.3311258,0.3311258
+Food,Burdock leaves,Burdock,0,0.2,0.2
+Plant,Burdock,Burdock,0,0.5,0.5
+Food,Stonecrop leaves,Stonecrop,0,0.025,0.025
+Plant,Stonecrop,Stonecrop,0,0.5,0.5
+Food,Roseroot root,Roseroot,0,0.1655629,0.1655629
+Food,Roseroot leaves,Roseroot,0,0.075,0.075
+Plant,Roseroot,Roseroot,0,0.5,0.5
+Tool,Loop snare,tuntematon,4,0.5,0.5
+Food,Bog flower leaves,Bog flower,0,0.025,0.025
+Plant,Bog flower,Bog flower,0,0.5,0.5
+Tool,"K�p�l�lauta"-Fox trap,tuntematon,8,3,3
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Tool,Paddle,tuntematon,4,3,3
+Watercraft,Punt,tuntematon,96,30,30
+Tool,Sesta,tuntematon,0.16,3,3
+Watercraft,Raft,tuntematon,32,80,80
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Weapon,Dagger,DAGGER,160,1,1
+Weapon,Knife,DAGGER,48,1,1
+Weapon,Throwing knife,DAGGER,120,1,1
+Weapon,Small knife,DAGGER,24,1,1
+Weapon,Broad knife,DAGGER,136,2,2
+Weapon,Hunting knife,DAGGER,160,2,2
+Weapon,Fisher's knife,DAGGER,120,2,2
+Weapon,Kaumolais knife,DAGGER,200,3,3
+Weapon,Northern knife,DAGGER,320,2,2
+Weapon,Skramasaksi,DAGGER,344,3,3
+Weapon,,SWORD,0,1,1
+Weapon,Shortsword,SWORD,600,2,2
+Weapon,Scimitar,SWORD,480,2,2
+Weapon,Broadsword,SWORD,920,3,3
+Weapon,,SWORD,0,4,4
+Weapon,Njerpezil�is Scimitar,SWORD,640,3,3
+Weapon,,SWORD,0,3,3
+Weapon,Bastard Sword,SWORD,1200,5,5
+Weapon,Battlesword,SWORD,1400,8,8
+Weapon,Club,CLUB,2,3,3
+Weapon,Mace,CLUB,400,4,4
+Weapon,,CLUB,0,5,5
+Weapon,Maul,CLUB,24,7,7
+Weapon,Sickle,AXE,136,1,1
+Weapon,Throwing axe,AXE,200,2,2
+Weapon,Handaxe,AXE,112,3,3
+Weapon,Handaxe,AXE,112,3,3
+Weapon,Warhammer,AXE,360,5,5
+Weapon,Battleaxe,AXE,640,6,6
+Weapon,Small flail,FLAIL,8,1,1
+Weapon,Grainflail,FLAIL,16,2,2
+Weapon,Ball & chain,FLAIL,320,4,4
+Weapon,Warflail,FLAIL,480,5,5
+Weapon,Javelin,SPEAR,2,3,3
+Weapon,Staff,SPEAR,2,4,4
+Weapon,Spear,SPEAR,344,5,5
+Weapon,Kaumolais spear,SPEAR,400,7,7
+Weapon,Trident,SPEAR,160,6,6
+Weapon,Small trident,SPEAR,120,5,5
+Weapon,Wide trident,SPEAR,200,8,8
+Weapon,Hard staff,SPEAR,16,5,5
+Weapon,Northern spear,SPEAR,360,7,7
+Weapon,Ango,SPEAR,480,8,8
+Weapon,Light spear,SPEAR,48,4,4
+Tool,Net,NET,144,4,4
+Weapon,Shortbow,BOW,40,2,2
+Weapon,Longbow,BOW,80,4,4
+Weapon,Crossbow,CROSSBOW,320,6,6
+Weapon,Heavy Crossbow,CROSSBOW,400,10,10
+Weapon,Juniper bow,BOW,16,2,2
+Weapon,Northern bow,BOW,176,3,3
+Weapon,Hunting bow,BOW,144,4,4
+Weapon,Arrow,BOW,8,0.1,0.1
+Weapon,Arrow,BOW,8,0.1,0.1
+Weapon,Arrow,BOW,8,0.1,0.1
+Weapon,Arrow,BOW,8,0.1,0.1
+Weapon,Arrow,BOW,8,0.1,0.1
+Weapon,Arrow,BOW,8,0.1,0.1
+Weapon,Arrow,BOW,8,0.1,0.1
+Weapon,Arrow,BOW,8,0.1,0.1
+Weapon,Arrow,BOW,8,0.1,0.1
+Weapon,Blunt arrow,BOW,4,0.4415011,0.4415011
+Weapon,Broadhead arrow,BOW,14.4,0.1766004,0.1766004
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Weapon,Broad axe,AXE,240,8.5,8.5
+Weapon,Carving axe,AXE,144,4.5,4.5
+Weapon,Splitting axe,AXE,200,6,6
+Weapon,Woodsman's axe,AXE,160,6,6
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Weapon,Stone,CLUB,0,14,14
+Weapon,Rock,CLUB,0,1,1
+Wood,Board,tuntematon,8,20,20
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Wood,Firewood,tuntematon,0.08,1.5,1.5
+Wood,Log,tuntematon,8,400,400
+Wood,Block of wood,tuntematon,0,40,40
+Wood,Branch,tuntematon,0,0.2,0.2
+Wood,Slender tree trunk,tuntematon,0,50,50
+Wood,Bark,tuntematon,0,2.5,2.5
+Wood,Tree trunk,tuntematon,0,500,500
+Wood,Wooden stake,tuntematon,0,2.2,2.2
+Wood,Spruce twig,tuntematon,0,0.2,0.2
+Weapon,Stone-axe,AXE,0.8,4,4
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0
+Unused,*unmatchablestring*,tuntematon,0,0,0

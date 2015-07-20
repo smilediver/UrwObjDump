@@ -65,7 +65,7 @@ namespace UrwObjDump {
 
 			var data = new BinaryReader(File.OpenRead(args[0]));
 			TextWriter output = File.CreateText(args[1]);
-			output.WriteLine(string.Join(";", new string[]{
+			output.WriteLine(string.Join(",", new string[]{
 				"Type",
 				"Name",
 				"Group",
@@ -103,7 +103,7 @@ namespace UrwObjDump {
 
 		private static void Write(TextWriter output, List<string> values)
 		{
-			var str = string.Join(";", values);
+			var str = string.Join(",", values);
 			output.WriteLine(str);
 			//Console.WriteLine(str);
 		}
