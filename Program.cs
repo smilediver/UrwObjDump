@@ -49,10 +49,16 @@ namespace UrwObjDump {
 		public float valuePerLbs;
 		public byte quality;
 
+		public byte h1Penalty;
+
+		public byte attackBonus;
+		public byte defenceBonus;
+
 		public void Deserialize(BinaryReader data) {
 			byte[] bytes;
 
 			this.type = (UrwObjectType)data.ReadByte();
+
 			data.ReadBytes(8); // Unknown
 
 			bytes = data.ReadBytes(40);
@@ -61,7 +67,9 @@ namespace UrwObjDump {
 			this.group = Encoding.UTF8.GetString(bytes, 0, Array.FindIndex(bytes, (b)=>b==0));
 
 			data.ReadBytes(1); // Unknown
+
 			this.spriteIndex = data.ReadByte();
+
 			data.ReadBytes(1); // Unknown
 
 			this.value = data.ReadSingle();
@@ -86,7 +94,15 @@ namespace UrwObjDump {
 				data.ReadBytes(6);
 			}
 
-			data.ReadBytes(10); // Unknown
+			data.ReadBytes(4); // Unknown
+
+			this.h1Penalty = data.ReadByte();
+
+			data.ReadBytes(1); // Unknown
+
+			this.accuracy = data.ReadByte();
+
+			data.ReadBytes(3); // Unknown
 
 			this.weight = data.ReadSingle();  // weight for containers and wear?
 			this.weight2 = data.ReadSingle(); // weight or capacity
@@ -100,10 +116,18 @@ namespace UrwObjDump {
 			this.valuePerLbs = data.ReadSingle();
 
 			data.ReadBytes(9); // Unknown
-		
+
 			this.quality = (byte)(data.ReadByte() & 0x0F);
 
-			data.ReadBytes(6); // Unknown
+			data.ReadBytes(1); // Unknown
+
+			if (type == UrwObjectType.Weapon) {
+				int combatBonuses = data.ReadByte();
+				this.attackBonus = (byte)(combatBonuses & 0x0F);
+				this.defenceBonus = (byte)(combatBonuses >> 4);
+			}
+
+			data.ReadBytes(4); // Unknown
 		}
 
 		public UrwObject(BinaryReader data) {
@@ -140,6 +164,11 @@ namespace UrwObjDump {
 			new FieldWriter("Tear", (o) => FormatDamage(o.tear)),
 			new FieldWriter("Squeeze", (o) => FormatDamage(o.squeeze)),
 			new FieldWriter("Warmth", (o) => FormatDamage(o.warmth)),
+
+			new FieldWriter("1HPenalty", (o) => o.h1Penalty.ToString()),
+			new FieldWriter("Accuracy", (o) => o.accuracy.ToString()),
+			new FieldWriter("AttackBonus", (o) => o.attackBonus.ToString()),
+			new FieldWriter("DefenceBonus", (o) => o.defenceBonus.ToString()),
 
 			new FieldWriter("Mature", (o) => o.mature.ToString()),
 			new FieldWriter("Sprout", (o) => o.sprout.ToString()),
