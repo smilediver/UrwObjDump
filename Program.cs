@@ -50,9 +50,9 @@ namespace UrwObjDump {
 		public byte quality;
 
 		public byte h1Penalty;
-
+		public byte accuracy;
 		public byte attackBonus;
-		public byte defenceBonus;
+		public byte defenseBonus;
 
 		public void Deserialize(BinaryReader data) {
 			byte[] bytes;
@@ -124,7 +124,10 @@ namespace UrwObjDump {
 			if (type == UrwObjectType.Weapon) {
 				int combatBonuses = data.ReadByte();
 				this.attackBonus = (byte)(combatBonuses & 0x0F);
-				this.defenceBonus = (byte)(combatBonuses >> 4);
+				this.defenseBonus = (byte)(combatBonuses >> 4);
+			}
+			else {
+				data.ReadBytes(1);
 			}
 
 			data.ReadBytes(4); // Unknown
@@ -168,7 +171,7 @@ namespace UrwObjDump {
 			new FieldWriter("1HPenalty", (o) => o.h1Penalty.ToString()),
 			new FieldWriter("Accuracy", (o) => o.accuracy.ToString()),
 			new FieldWriter("AttackBonus", (o) => o.attackBonus.ToString()),
-			new FieldWriter("DefenceBonus", (o) => o.defenceBonus.ToString()),
+			new FieldWriter("DefenseBonus", (o) => o.defenseBonus.ToString()),
 
 			new FieldWriter("Mature", (o) => o.mature.ToString()),
 			new FieldWriter("Sprout", (o) => o.sprout.ToString()),
@@ -184,7 +187,7 @@ namespace UrwObjDump {
 		}
 
 		static string FormatDamage(byte value) {
-			return value == 200 ? "-" : value.ToString();
+			return value == 200 ? "0" : value.ToString();
 		}
 	}
 
