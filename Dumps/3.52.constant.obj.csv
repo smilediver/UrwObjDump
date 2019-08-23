@@ -1,0 +1,401 @@
+Type,Name,Group,Sprite,Sprite,Value,Weight,Weight2,Carbohydrates,Fat,Proteins,Blunt,Edge,Point,Tear,Squeeze,Warmth,1HPenalty,Accuracy,AttackBonus,DefenseBonus,Mature,Sprout,Wither,Water,Value Per Lbs,Quality
+Jewelry,"bronze bear pendant","tuntematon","vl-bpend",0,360,0.01766004,0.01766004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"blueberries","Blueberry shrub","ber-blue",153,0,0.1,0.1,6,1,1,0,0,0,0,0,0,0,0,0,0,95,5,9,0,6.428485E-39,0
+Plant,"Blueberry shrub","Blueberry","ber-blue",153,0,0.1,0.1,6,1,1,0,0,0,0,0,0,0,0,0,0,95,5,9,0,6.428485E-39,0
+Food,"lingonberries","Lingonberry shrub","ber-lingon",151,0,0.1,0.1,7,1,0,0,0,0,0,0,0,0,0,0,0,95,6,11,0,1.83671E-39,0
+Plant,"Lingonberry shrub","Lingonberry","ber-lingon",151,0,0.1,0.1,7,1,0,0,0,0,0,0,0,0,0,0,0,95,6,11,0,1.83671E-39,0
+Food,"cranberries","Cranberry shrub","ber-cran",151,0,0.05,0.05,4,1,0,0,0,0,0,0,0,0,0,0,0,70,8,12,0,7.34684E-39,0
+Plant,"Cranberry shrub","Cranberry","ber-cran",151,0,0.05,0.05,4,1,0,0,0,0,0,0,0,0,0,0,0,70,8,12,0,7.34684E-39,0
+Food,"northern bilberries","Northern bilberry shrub","ber-bil",153,0,0.1,0.1,3,0,1,0,0,0,0,0,0,0,0,0,0,95,5,9,0,7.34684E-39,0
+Plant,"Northern bilberry shrub","Northern bilberry","ber-bil",153,0,0.1,0.1,3,0,1,0,0,0,0,0,0,0,0,0,0,95,5,9,0,7.34684E-39,0
+Food,"cloudberries","Cloudberry bramble","ber-cloud",131,0,0.2,0.2,8,1,2,0,0,0,0,0,0,0,0,0,0,95,6,11,0,5.51013E-39,0
+Container,"Wooden tub","tuntematon","it-wdtub",29,8,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jewelry,"bronze bear pendant","tuntematon","vl-bpend",0,360,0.01766004,0.01766004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jewelry,"bronze bracelet","tuntematon","vl-bbrace",0,224,0.04635762,0.04635762,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jewelry,"bronze ball pendant","tuntematon","vl-bpend",0,240,0.01766004,0.01766004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jewelry,"bronze brooch","tuntematon","vl-bbrooch",0,280,0.1766004,0.1766004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jewelry,"small bronze brooch","tuntematon","vl-bbroochs",0,160,0.08830022,0.08830022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant,"Cloudberry bramble","Cloudberry","ber-cloud",131,0,0.2,0.2,8,1,2,0,0,0,0,0,0,0,0,0,0,95,6,11,0,5.51013E-39,0
+Jewelry,"bronze horse-ornamented comb","tuntematon","vl-bcomb",0,384,0.1324503,0.1324503,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jewelry,"bronze flower-ornamented comb","tuntematon","vl-bcomb",0,320,0.1324503,0.1324503,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"strawberries","Strawberry shrub","ber-straw",116,0,0.1,0.1,9,0,0,0,0,0,0,0,0,0,0,0,0,60,5,8,0,9.18355E-40,0
+Jewelry,"silver ring","tuntematon","vl-sring",0,320,0.006622517,0.006622517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jewelry,"bronze bezel ring","tuntematon","vl-bbring",0,192,0.006622517,0.006622517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant,"Strawberry shrub","Strawberry","ber-straw",116,0,0.1,0.1,9,0,0,0,0,0,0,0,0,0,0,0,0,60,5,8,0,9.18355E-40,0
+Container,"Wooden mug","tuntematon","it-wdmug",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Container,"Wooden mug","tuntematon","it-wdmug",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Container,"Wooden cup","tuntematon","it-wdcup",1,2.4,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Container,"Wooden bowl","tuntematon","it-wdbowl",29,3.2,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Container,"Birch-bark box","tuntematon","it-bbbox",89,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Container,"Birch-bark basket","tuntematon","it-bbbask",87,6.8,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"crowberries","Crowberry shrub","ber-crow",117,0,0.1,0.1,6,1,1,0,0,0,0,0,0,0,0,0,0,60,4,8,0,8.265195E-39,0
+Food,"Egg","tuntematon","it-egg",155,0.17,0.1,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant,"Crowberry shrub","Crowberry","ber-crow",117,0,0.1,0.1,6,1,1,0,0,0,0,0,0,0,0,0,0,60,4,8,0,8.265195E-39,0
+Food,"raspberries","Raspberry bush","ber-rasp",154,0,0.2,0.2,4,1,1,0,0,0,0,0,0,0,0,0,0,60,5,9,0,7.34684E-39,0
+Plant,"Raspberry bush","Raspberry","ber-rasp",154,0,0.2,0.2,4,1,1,0,0,0,0,0,0,0,0,0,0,60,5,9,0,7.34684E-39,0
+Food,"black currants","Black currant bush","ber-blkcur",122,0,0.1,0.1,8,0,1,0,0,0,0,0,0,0,0,0,0,100,5,9,0,5.51013E-39,0
+Plant,"Black currant bush","Black currant","ber-blkcur",122,0,0.1,0.1,8,0,1,0,0,0,0,0,0,0,0,0,0,100,5,9,0,5.51013E-39,0
+Food,"Turnip seeds","Turnip","flo-turnip",114,0,0.007358352,0.007358352,7,0,1,0,0,0,0,0,0,0,0,0,0,55,5,9,0,0,0
+Food,"Turnip","Turnip","flo-turnip",114,0,0.6622517,0.6622517,7,0,1,0,0,0,0,0,0,0,0,0,0,55,5,9,0,0,0
+Plant,"Turnip","Turnip","flo-turnip",114,0,0.6622517,0.6622517,7,0,1,0,0,0,0,0,0,0,0,0,0,55,5,9,0,0,0
+Food,"peas","Pea","flo-pea",133,0,0.07726269,0.07726269,12,1,6,0,0,0,0,0,0,0,0,0,0,90,5,9,0,0,0
+Plant,"Pea","Pea","flo-pea",133,0,0.07726269,0.07726269,12,1,6,0,0,0,0,0,0,0,0,0,0,90,5,9,0,0,0
+Food,"Rye bread","tuntematon","it-bread",148,0.25,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"broad beans","Broad bean","flo-brdbean",132,0,0.1545254,0.1545254,19,0,8,0,0,0,0,0,0,0,0,0,0,110,4,11,0,0,0
+Plant,"Broad bean","Broad bean","flo-brdbean",132,0,0.1545254,0.1545254,19,0,8,0,0,0,0,0,0,0,0,0,0,110,4,11,0,0,0
+Food,"Barley grains","Barley","flo-barley",140,0,0.1103753,0.1103753,64,2,7,0,0,0,0,0,0,0,0,0,0,110,5,9,0,0,0
+Plant,"Barley","Barley","flo-barley",140,0,0.5,0.5,64,2,7,0,0,0,0,0,0,0,0,0,0,110,5,9,0,0,0
+Container,"Bag","tuntematon","it-bag",118,16,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Flat rye bread","tuntematon","it-flbread",148,0.25,0.4,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"barley-flour","Barley","flo-barley",140,4.38,1,1,64,2,7,0,0,0,0,0,0,0,0,0,0,110,5,9,0,0,3
+Food,"Rye grains","Rye","flo-rye",141,0,0.1103753,0.1103753,55,2,9,0,0,0,0,0,0,0,0,0,0,120,5,9,0,0,0
+Plant,"Rye","Rye","flo-rye",141,0,0.5,0.5,55,2,9,0,0,0,0,0,0,0,0,0,0,120,5,9,0,0,0
+Food,"rye-flour","Rye","flo-rye",141,3.96,1,1,55,2,9,0,0,0,0,0,0,0,0,0,0,120,5,9,0,0,3
+Food,"Hemp seeds","Hemp","flo-hemp",142,0,0.1103753,0.1103753,8,10,24,0,0,0,0,0,0,0,0,0,0,130,4,10,0,0,0
+Food,"Hemp leaves","Hemp","flo-hemp",142,0,0.075,0.075,1,1,3,0,0,0,0,0,0,0,0,0,0,130,4,10,0,0,0
+Plant,"Hemp","Hemp","flo-hemp",142,0,0.5,0.5,8,10,24,0,0,0,0,0,0,0,0,0,0,130,4,10,0,0,0
+Food,"Nettle seeds","Nettle","flo-nettle",134,0,0.02207506,0.02207506,2,1,6,0,0,0,0,0,0,0,0,0,0,50,6,9,0,0,0
+Food,"Nettle leaves","Nettle","flo-nettle",134,0,0.1,0.1,2,1,6,0,0,0,0,0,0,0,0,0,0,50,6,9,0,0,0
+Plant,"Nettle","Nettle","flo-nettle",134,0,0.5,0.5,2,1,6,0,0,0,0,0,0,0,0,0,0,50,6,9,0,0,0
+Food,"Yarrow seeds","Yarrow","flo-yarrow",135,0,0.02207506,0.02207506,1,0,1,0,0,0,0,0,0,0,0,0,0,50,6,10,0,0,0
+Food,"Yarrow leaves","Yarrow","flo-yarrow",135,0,0.025,0.025,1,0,1,0,0,0,0,0,0,0,0,0,0,50,6,10,0,0,0
+Food,"Yarrow flowers","Yarrow","flo-yarrow",135,0,0.0375,0.0375,1,0,1,0,0,0,0,0,0,0,0,0,0,50,6,10,0,0,0
+Plant,"Yarrow","Yarrow","flo-yarrow",135,0,0.5,0.5,1,0,1,0,0,0,0,0,0,0,0,0,0,50,6,10,0,0,0
+Food,"Sorrel seeds","Sorrel","flo-sorrel",136,0,0.007358352,0.007358352,2,0,2,0,0,0,0,0,0,0,0,0,0,45,6,10,0,0,0
+Food,"Sorrel leaves","Sorrel","flo-sorrel",136,0,0.025,0.025,2,0,2,0,0,0,0,0,0,0,0,0,0,45,6,10,0,0,0
+Plant,"Sorrel","Sorrel","flo-sorrel",136,0,0.5,0.5,2,0,2,0,0,0,0,0,0,0,0,0,0,45,6,10,0,0,0
+Food,"Meadsweet leaves","Meadsweet","flo-meadsw",137,0,0.2,0.2,1,0,0,0,0,0,0,0,0,0,0,0,0,45,6,9,0,0,0
+Food,"Meadsweet flowers","Meadsweet","flo-meadsw",137,0,0.2,0.2,1,0,0,0,0,0,0,0,0,0,0,0,0,45,6,9,0,0,0
+Plant,"Meadsweet","Meadsweet","flo-meadsw",137,0,0.5,0.5,1,0,0,0,0,0,0,0,0,0,0,0,0,45,6,9,0,0,0
+Food,"Golden rod leaves","Golden rod","flo-grod",138,0,0.075,0.075,1,0,0,0,0,0,0,0,0,0,0,0,0,60,6,9,0,0,0
+Food,"Golden rod flowers","Golden rod","flo-grod",138,0,0.1,0.1,1,0,0,0,0,0,0,0,0,0,0,0,0,60,6,9,0,0,0
+Plant,"Golden rod","Golden rod","flo-grod",138,0,0.5,0.5,1,0,0,0,0,0,0,0,0,0,0,0,0,60,6,9,0,0,0
+Food,"Heather flowers","Heather","flo-heather",139,0,0.025,0.025,1,0,0,0,0,0,0,0,0,0,0,0,0,65,5,11,0,0,0
+Plant,"Heather","Heather","flo-heather",139,0,0.5,0.5,1,0,0,0,0,0,0,0,0,0,0,0,0,65,5,11,0,0,0
+Tool,"Rope","tuntematon","it-rope",90,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tool,"Cord","tuntematon","it-cord",90,0.8,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tool,"Leather rope","tuntematon","it-rope",90,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Black ear mushroom","Black ear mushroom","shr-blkear",110,0,0.2,0.2,3,1,2,0,0,0,0,0,0,0,0,0,0,60,4,7,0,0,0
+Plant,"Black ear mushroom","Black ear mushroom","shr-blkear",110,0,0.2,0.2,3,1,2,0,0,0,0,0,0,0,0,0,0,60,4,7,0,0,0
+Food,"Sand mushroom","Sand mushroom","shr-sand",128,0,0.2,0.2,3,1,2,0,0,0,0,0,0,0,0,0,0,60,6,10,0,0,0
+Plant,"Sand mushroom","Sand mushroom","shr-sand",128,0,0.2,0.2,3,1,2,0,0,0,0,0,0,0,0,0,0,60,6,10,0,0,0
+Food,"Noaidi's mushroom","Noaidi's mushroom","shr-noaidis",109,0,0.2,0.2,3,1,2,0,0,0,0,0,0,0,0,0,0,50,6,10,0,0,0
+Tool,"Sauna scoop","tuntematon","it-scoop",91,2,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant,"Noaidi's mushroom","Noaidi's mushroom","shr-noaidis",109,0,0.2,0.2,3,1,2,0,0,0,0,0,0,0,0,0,0,50,6,10,0,0,0
+Jewelry,"silver chain bracelet","tuntematon","vl-scbrace",0,680,0.05518764,0.05518764,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jewelry,"silver bird bracelet","tuntematon","vl-sbrace",0,520,0.03532009,0.03532009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jewelry,"silver sun-symbol pendant","tuntematon","vl-spensun",0,640,0.04415011,0.04415011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Yellowcoat mushroom","Yellowcoat mushroom","shr-ycoat",113,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,45,6,11,0,0,0
+Plant,"Yellowcoat mushroom","Yellowcoat mushroom","shr-ycoat",113,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,45,6,11,0,0,0
+Food,"Browncoat mushroom","Browncoat mushroom","shr-bcoat",128,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,20,9,11,0,0,0
+Plant,"Browncoat mushroom","Browncoat mushroom","shr-bcoat",128,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,20,9,11,0,0,0
+Food,"Bearpaw mushroom","Bearpaw mushroom","shr-bearpaw",115,0,0.4,0.4,3,1,2,0,0,0,0,0,0,0,0,0,0,35,8,11,0,0,0
+Plant,"Bearpaw mushroom","Bearpaw mushroom","shr-bearpaw",115,0,0.4,0.4,3,1,2,0,0,0,0,0,0,0,0,0,0,35,8,11,0,0,0
+Food,"Hairy mushroom","Hairy mushroom","shr-hairy",111,0,0.2,0.2,3,1,2,0,0,0,0,0,0,0,0,0,0,35,8,10,0,0,0
+Plant,"Hairy mushroom","Hairy mushroom","shr-hairy",111,0,0.2,0.2,3,1,2,0,0,0,0,0,0,0,0,0,0,35,8,10,0,0,0
+Tool,"Torch","tuntematon","it-torch",126,0.48,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Redlegger mushroom","Redlegger mushroom","shr-rlegger",130,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,50,8,11,0,0,0
+Food,"Salt","tuntematon","",0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Container,"Pot","tuntematon","it-pot",30,224,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tool,"Shovel","tuntematon","it-shovel",31,120,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tool,"Wooden shovel","tuntematon","it-wdshovel",32,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tool,"Skis","tuntematon","it-skis",2,40,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tool,"Ski stick","tuntematon","it-skistick",47,0.8,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant,"Redlegger mushroom","Redlegger mushroom","shr-rlegger",130,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,50,8,11,0,0,0
+Food,"Yellow fingers mushroom","Yellow fingers mushroom","shr-yfingers",115,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,30,4,7,0,0,0
+Plant,"Yellow fingers mushroom","Yellow fingers mushroom","shr-yfingers",115,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,30,4,7,0,0,0
+Food,"Tellervo's gift mushroom","Tellervo's gift mushroom","shr-gift",130,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,45,9,12,0,0,0
+Plant,"Tellervo's gift mushroom","Tellervo's gift mushroom","shr-gift",130,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,45,9,12,0,0,0
+Food,"Ukko's mushroom","Ukko's mushroom","shr-ukkos",129,0,0.4,0.4,3,1,2,0,0,0,0,0,0,0,0,0,0,40,8,10,0,0,0
+Plant,"Ukko's mushroom","Ukko's mushroom","shr-ukkos",129,0,0.4,0.4,3,1,2,0,0,0,0,0,0,0,0,0,0,40,8,10,0,0,0
+Food,"Soft mushroom","Soft mushroom","shr-soft",128,0,0.2,0.2,3,1,2,0,0,0,0,0,0,0,0,0,0,60,5,7,0,0,0
+Plant,"Soft mushroom","Soft mushroom","shr-soft",128,0,0.2,0.2,3,1,2,0,0,0,0,0,0,0,0,0,0,60,5,7,0,0,0
+Food,"Ringed mushroom","Ringed mushroom","shr-ringed",130,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,25,8,9,0,0,0
+Plant,"Ringed mushroom","Ringed mushroom","shr-ringed",130,0,0.1,0.1,3,1,2,0,0,0,0,0,0,0,0,0,0,25,8,9,0,0,0
+Food,"Mother pipe root","Mother pipe","flo-mpipe",152,0,0.3311258,0.3311258,35,0,0,0,0,0,0,0,0,0,0,0,0,90,4,10,0,0,0
+Food,"Mother pipe leaves","Mother pipe","flo-mpipe",152,0,0.2,0.2,35,0,0,0,0,0,0,0,0,0,0,0,0,90,4,10,0,0,0
+Food,"Mother pipe flowers","Mother pipe","flo-mpipe",152,0,0.2,0.2,35,0,0,0,0,0,0,0,0,0,0,0,0,90,4,10,0,0,0
+Plant,"Mother pipe","Mother pipe","flo-mpipe",152,0,0.5,0.5,35,0,0,0,0,0,0,0,0,0,0,0,0,90,4,10,0,0,0
+Food,"Bear pipe root","Bear pipe","flo-bearpipe",152,0,0.3311258,0.3311258,25,0,0,0,0,0,0,0,0,0,0,0,0,90,4,10,0,0,0
+Food,"Bear pipe leaves","Bear pipe","flo-bearpipe",152,0,0.2,0.2,25,0,0,0,0,0,0,0,0,0,0,0,0,90,4,10,0,0,0
+Armor,"Bandage","tuntematon","it-bandage",97,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Armor,"Linen undershirt","tuntematon","ar-lngshirt",81,112,3,3,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen undershirt","tuntematon","ar-lngwoshi",81,120,5,5,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Linen undergarment","tuntematon","ar-ungarm",81,144,4,4,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen undergarment","tuntematon","ar-woungarm",81,160,7,7,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Linen shirt","tuntematon","ar-shoshirt",81,80,2.5,2.5,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Nettle shirt","tuntematon","ar-shoshirt",81,72,2.5,2.5,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen shirt","tuntematon","ar-woshirt",81,88,4,4,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Linen tunic","tuntematon","ar-tunic",81,96,2.8,2.8,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Nettle tunic","tuntematon","ar-tunic",81,88,2.8,2.8,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen tunic","tuntematon","ar-wotunic",81,104,4.6,4.6,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen overcoat","tuntematon","ar-wlnocoat",81,136,6.3,6.3,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen dress","tuntematon","ar-wodress",81,144,6,6,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Linen dress","tuntematon","ar-dress",81,128,3.5,3.5,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Linen trousers","tuntematon","ar-trousers",103,120,3,3,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Nettle trousers","tuntematon","ar-trousers",103,112,3,3,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen trousers","tuntematon","ar-wotrous",103,128,5.5,5.5,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen leggings","tuntematon","ar-woollegg",103,96,3.5,3.5,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Nettle apron","tuntematon","ar-apron",83,64,2,2,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Linen apron","tuntematon","ar-apron",83,72,2,2,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen apron","tuntematon","ar-woapron",83,80,3.5,3.5,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Linen footrags","tuntematon","ar-footrags",83,8,0.2,0.2,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen socks","tuntematon","ar-woolsock",83,16,0.2,0.2,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen footrags","tuntematon","ar-footrags",83,8,0.2,0.2,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Linen veil","tuntematon","ar-veil",82,16,0.3,0.3,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen veil","tuntematon","ar-woolveil",82,16,0.3,0.3,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Linen cowl","tuntematon","ar-cowl",82,16,1,1,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen cowl","tuntematon","ar-cowl",82,16,1,1,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Nettle cowl","tuntematon","ar-cowl",82,16,1,1,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Nettle cloak","tuntematon","ar-cloak",80,48,2.8,2.8,0,0,0,0,2,1,2,0,3,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen cloak","tuntematon","ar-wocloak",80,80,5.5,5.5,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Woollen mittens","tuntematon","ar-woolmit",84,16,0.2,0.2,0,0,0,2,2,1,2,1,4,0,0,0,0,0,0,0,0,0,0
+Armor,"Leather cap","tuntematon","ar-cap",82,16,0.1545254,0.1545254,0,0,0,1,3,3,3,1,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Leather belt","tuntematon","ar-leabelt",90,16,0.3311258,0.3311258,0,0,0,1,3,3,3,1,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Leather shirt","tuntematon","ar-lshoshi",81,120,6,6,0,0,0,1,3,3,3,1,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Leather leggings","tuntematon","ar-lealegg",103,96,6.3,6.3,0,0,0,1,3,3,3,1,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Leather shoes","tuntematon","ar-leashoes",83,40,2,2,0,0,0,1,3,3,3,1,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Leather boots","tuntematon","ar-leaboots",83,56,3.2,3.2,0,0,0,1,3,3,3,1,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur cap","tuntematon","ar-furcap",82,24,1,1,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur shirt","tuntematon","ar-furshirt",81,160,7,7,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur mittens","tuntematon","ar-mittens",84,24,1,1,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur leggings","tuntematon","ar-furlegg",103,104,7.42,7.42,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur hood","tuntematon","ar-furhood",84,32,1.076923,1.076923,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur footwear","tuntematon","ar-furboots",103,96,2.8,2.8,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur cloak","tuntematon","ar-furcloak",80,240,11.5,11.5,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Birch-bark necklace","tuntematon","ar-bbneckl",82,8,0.1,0.1,0,0,0,1,2,1,2,1,1,0,0,0,0,0,0,0,0,0,0
+Armor,"Birch-bark shoes","tuntematon","ar-bbshoes",83,16,0.8,0.8,0,0,0,1,2,1,2,1,1,0,0,0,0,0,0,0,0,0,0
+Armor,"Birch-bark cap","tuntematon","ar-bbcap",82,8,0.9,0.9,0,0,0,1,2,1,2,1,1,0,0,0,0,0,0,0,0,0,0
+Armor,"Leather shin guards","tuntematon","ar-leashgu",83,48,3,3,0,0,0,1,3,3,3,1,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Leather forearm guards","tuntematon","ar-leafagu",96,24,1.5,1.5,0,0,0,1,3,3,3,1,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Leather cuirass","tuntematon","ar-leacui",81,80,4.5,4.5,0,0,0,1,3,3,3,1,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur overcoat","tuntematon","ar-furocoat",81,304,13.5,13.5,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur overcoat","tuntematon","ar-furocoat",81,304,13.5,13.5,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur overcoat","tuntematon","ar-furocoat",81,304,13.5,13.5,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur overcoat","tuntematon","ar-furocoat",81,304,13.5,13.5,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Fur overcoat","tuntematon","ar-furocoat",81,304,13.5,13.5,0,0,0,5,3,2,3,2,5,0,0,0,0,0,0,0,0,0,0
+Armor,"Mail Cowl","tuntematon","ar-mailcwl",99,360,3,3,0,0,0,2,8,5,7,2,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Long Mail Cowl","tuntematon","ar-lmailcwl",99,560,5,5,0,0,0,2,8,5,7,2,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Mail Habergeon","tuntematon","ar-mailhabe",81,2576,22,22,0,0,0,2,8,5,7,2,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Mail Hauberk","tuntematon","ar-mailhaub",86,3400,25,25,0,0,0,2,8,5,7,2,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Long Mail Hauberk","tuntematon","ar-lmailhau",86,3600,30,30,0,0,0,2,8,5,7,2,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Mail Leggings","tuntematon","ar-maillegg",103,2760,23,23,0,0,0,2,8,5,7,2,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Mail mittens","tuntematon","ar-mailmit",84,320,3,3,0,0,0,2,8,5,7,2,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Iron helm","tuntematon","ar-helm",100,400,3,3,0,0,0,7,10,8,9,6,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Iron spectacle helm","tuntematon","ar-sphelm",101,520,3.5,3.5,0,0,0,7,10,8,9,6,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Lamellar hauberk","tuntematon","ar-lamhaub",85,3040,35,35,0,0,0,5,9,5,8,4,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Lamellar cuirass","tuntematon","ar-lamcui",85,2000,15,15,0,0,0,5,9,5,8,4,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Lamellar rerebraces","tuntematon","ar-lamrere",96,600,5,5,0,0,0,5,9,5,8,4,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Iron coudes","tuntematon","ar-coudes",96,200,2,2,0,0,0,7,10,8,9,6,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Lamellar forearm guards","tuntematon","ar-lamfagu",96,504,4,4,0,0,0,5,9,5,8,4,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Iron Kneecops","tuntematon","ar-kneecops",83,296,2,2,0,0,0,7,10,8,9,6,2,0,0,0,0,0,0,0,0,0,0
+Armor,"Lamellar shin guards","tuntematon","ar-lamshgu",83,1200,9,9,0,0,0,5,9,5,8,4,2,0,0,0,0,0,0,0,0,0,0
+Food,"Bear pipe flowers","Bear pipe","flo-bearpipe",152,0,0.2,0.2,25,0,0,0,0,0,0,0,0,0,0,0,0,90,4,10,0,0,0
+Plant,"Bear pipe","Bear pipe","flo-bearpipe",152,0,0.5,0.5,25,0,0,0,0,0,0,0,0,0,0,0,0,90,4,10,0,0,0
+Food,"Dog pipe root","Dog pipe","flo-dogpipe",98,0,0.1655629,0.1655629,15,0,0,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Food,"Dog pipe leaves","Dog pipe","flo-dogpipe",98,0,0.075,0.075,15,0,0,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Plant,"Dog pipe","Dog pipe","flo-dogpipe",98,0,0.5,0.5,15,0,0,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Food,"Wolf pipe root","Wolf pipe","flo-wolfpipe",98,0,0.1655629,0.1655629,15,0,0,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Food,"Wolf pipe leaves","Wolf pipe","flo-wolfpipe",98,0,0.075,0.075,15,0,0,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Plant,"Wolf pipe","Wolf pipe","flo-wolfpipe",98,0,0.5,0.5,15,0,0,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Plant,"Water lily","Water lily","flo-wlily",150,0,0.5,0.5,15,0,0,0,0,0,0,0,0,0,0,0,0,35,5,8,0,0,0
+Weapon,"Roundshield","SHIELD","wp-rshield",69,96,6,6,0,0,0,2,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0
+Weapon,"Buckler","SHIELD","wp-buckler",69,32,3,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tool,"Hunting Horn","tuntematon","it-horn",4,8,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plant,"Riverpig","Riverpig","flo-riverpig",144,0,0.5,0.5,15,0,0,0,0,0,0,0,0,0,0,0,0,35,5,8,0,0,0
+Container,"Skin","tuntematon","it-wtrskin",118,16,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Clayweed seeds","Clayweed","flo-clayweed",108,0,0.1103753,0.1103753,40,4,13,0,0,0,0,0,0,0,0,0,0,90,5,10,0,0,0
+Food,"Clayweed leaves","Clayweed","flo-clayweed",108,0,0.075,0.075,8,1,3,0,0,0,0,0,0,0,0,0,0,90,5,10,0,0,0
+Plant,"Clayweed","Clayweed","flo-clayweed",108,0,0.5,0.5,40,4,13,0,0,0,0,0,0,0,0,0,0,90,5,10,0,0,0
+Food,"Bogbean root","Bogbean","flo-bogbean",106,0,0.1655629,0.1655629,40,3,5,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Food,"Bogbean leaves","Bogbean","flo-bogbean",106,0,0.075,0.075,40,3,5,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Plant,"Bogbean","Bogbean","flo-bogbean",106,0,0.5,0.5,40,3,5,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Food,"Marsh calla root","Marsh calla","flo-mcalla",107,0,0.1655629,0.1655629,40,3,5,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Food,"Pike","tuntematon","fd-fish",121,4,6.622517,6.622517,0,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Roach","tuntematon","fd-fish",121,0.05,0.3311258,0.3311258,0,5,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Perch","tuntematon","fd-fish",121,0.25,1.324503,1.324503,0,2,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Bream","tuntematon","fd-fish",121,0.25,2.207505,2.207505,0,4,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Pike-perch","tuntematon","fd-fish",121,6,3.532009,3.532009,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Trout","tuntematon","fd-fish",121,6,7.726269,7.726269,0,4,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Salmon","tuntematon","fd-fish",121,7.5,8.830022,8.830022,0,9,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Burbot","tuntematon","fd-fish",121,1,2.649007,2.649007,0,1,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Lavaret","tuntematon","fd-fish",121,3,2.207505,2.207505,0,3,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tool,"Fishing rod","tuntematon","it-fishrod",47,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Marsh calla leaves","Marsh calla","flo-mcalla",107,0,0.075,0.075,40,3,5,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Plant,"Marsh calla","Marsh calla","flo-mcalla",107,0,0.5,0.5,40,3,5,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Food,"Lake reed root","Lake reed","flo-lakereed",104,0,0.1103753,0.1103753,55,0,5,0,0,0,0,0,0,0,0,0,0,70,5,9,0,0,0
+Plant,"Lake reed","Lake reed","flo-lakereed",104,0,0.5,0.5,55,0,5,0,0,0,0,0,0,0,0,0,0,70,5,9,0,0,0
+Food,"Milkweed root","Milkweed","flo-milkweed",102,0,0.1655629,0.1655629,19,2,5,0,0,0,0,0,0,0,0,0,0,70,5,9,0,0,0
+Food,"Milkweed leaves","Milkweed","flo-milkweed",102,0,0.0375,0.0375,19,2,5,0,0,0,0,0,0,0,0,0,0,70,5,9,0,0,0
+Plant,"Milkweed","Milkweed","flo-milkweed",102,0,0.5,0.5,19,2,5,0,0,0,0,0,0,0,0,0,0,70,5,9,0,0,0
+Food,"Burdock root","Burdock","flo-burdock",120,0,0.3311258,0.3311258,20,2,4,0,0,0,0,0,0,0,0,0,0,70,5,10,0,0,0
+Tool,"Loop snare","tuntematon","tr-loop",61,4,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Burdock leaves","Burdock","flo-burdock",120,0,0.2,0.2,20,2,4,0,0,0,0,0,0,0,0,0,0,70,5,10,0,0,0
+Plant,"Burdock","Burdock","flo-burdock",120,0,0.5,0.5,20,2,4,0,0,0,0,0,0,0,0,0,0,70,5,10,0,0,0
+Tool,"Paw-board fox trap","tuntematon","tr-pawboard",60,8,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Stonecrop leaves","Stonecrop","flo-stncrop",123,0,0.025,0.025,8,0,1,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Plant,"Stonecrop","Stonecrop","flo-stncrop",123,0,0.5,0.5,8,0,1,0,0,0,0,0,0,0,0,0,0,45,5,9,0,0,0
+Food,"Roseroot root","Roseroot","flo-roseroot",123,0,0.1655629,0.1655629,14,0,1,0,0,0,0,0,0,0,0,0,0,65,5,9,0,0,0
+Food,"Roseroot leaves","Roseroot","flo-roseroot",123,0,0.075,0.075,14,0,1,0,0,0,0,0,0,0,0,0,0,65,5,9,0,0,0
+Plant,"Roseroot","Roseroot","flo-roseroot",123,0,0.5,0.5,14,0,1,0,0,0,0,0,0,0,0,0,0,65,5,9,0,0,0
+Tool,"Paddle","tuntematon","it-paddle",47,4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Watercraft,"Punt","tuntematon","it-punt",36,96,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tool,"Sesta","tuntematon","it-sesta",47,0.16,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Watercraft,"Raft","tuntematon","it-raft",37,32,80,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Food,"Bog flower leaves","Bog flower","flo-bogflo",143,0,0.025,0.025,8,0,1,0,0,0,0,0,0,0,0,0,0,45,5,8,0,0,0
+Plant,"Bog flower","Bog flower","flo-bogflo",143,0,0.5,0.5,8,0,1,0,0,0,0,0,0,0,0,0,0,45,5,8,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Stone knife","KNIFE","wp-stnknife",70,0,0.6622517,0.6622517,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+Weapon,"Knife","KNIFE","wp-knife",70,48,0.2869757,0.2869757,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Knife","KNIFE","wp-knife",70,48,0.2869757,0.2869757,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Knife","KNIFE","wp-knife",70,48,0.2869757,0.2869757,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Small knife","KNIFE","wp-sknife",70,24,0.2428256,0.2428256,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Broad knife","KNIFE","wp-bknife",70,136,0.3090508,0.3090508,0,0,0,1,2,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+Weapon,"Hunting knife","KNIFE","wp-hknife",70,160,0.3532009,0.3532009,0,0,0,2,2,5,0,0,0,0,0,1,0,0,0,0,0,0,0
+Weapon,"Fisher's knife","KNIFE","wp-fknife",70,120,0.2869757,0.2869757,0,0,0,1,2,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+Weapon,"Kaumolais knife","KNIFE","wp-kknife",70,200,0.3532009,0.3532009,0,0,0,2,2,5,0,0,0,0,0,1,1,0,0,0,0,0,0
+Weapon,"Northern knife","KNIFE","wp-nknife",70,320,0.397351,0.397351,0,0,0,2,2,5,0,0,0,0,0,1,1,0,0,0,0,0,0
+Weapon,"Skramasaksi","KNIFE","wp-skrama",70,344,1.2,1.2,0,0,0,2,3,4,0,0,0,0,0,2,1,0,0,0,0,0,0
+Weapon,"","SWORD","wp-sword",125,0,1,1,0,0,0,1,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Shortsword","SWORD","wp-shsword",125,600,2,2,0,0,0,2,4,4,0,0,0,0,0,2,1,0,0,0,0,0,0
+Weapon,"Scimitar","SWORD","wp-scimitar",125,480,2,2,0,0,0,2,5,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Weapon,"Broadsword","SWORD","wp-sword",125,920,3,3,0,0,0,3,5,3,0,0,0,0,0,3,2,0,0,0,0,0,0
+Weapon,"","SWORD","wp-sword",125,0,4,4,0,0,0,4,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Njerpez scimitar","SWORD","wp-scimitar",125,640,3,3,0,0,0,3,5,0,0,0,0,0,0,3,2,0,0,0,0,0,0
+Weapon,"","SWORD","wp-sword",125,0,3,3,0,0,0,3,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Bastard Sword","SWORD","wp-bstsword",125,1200,5,5,0,0,0,4,6,4,0,0,0,10,0,4,2,0,0,0,0,0,0
+Weapon,"Battlesword","SWORD","wp-batsword",125,1400,8,8,0,0,0,5,8,4,0,0,0,30,0,5,2,0,0,0,0,0,0
+Weapon,"Club","CLUB","wp-club",126,2,3,3,0,0,0,3,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0
+Weapon,"Mace","CLUB","wp-club",126,400,4,4,0,0,0,5,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+Weapon,"","CLUB","wp-club",126,0,5,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Maul","CLUB","wp-club",126,24,7,7,0,0,0,5,0,0,0,0,0,30,0,4,1,0,0,0,0,0,0
+Weapon,"Sickle","AXE","wp-sickle",149,136,1,1,0,0,0,1,4,3,0,0,0,0,0,1,1,0,0,0,0,0,0
+Weapon,"Throwing axe","AXE","wp-handaxe",149,200,2,2,0,0,0,3,5,0,0,0,0,0,3,1,1,0,0,0,0,0,0
+Weapon,"Handaxe","AXE","wp-handaxe",149,112,3,3,0,0,0,3,6,5,0,0,0,0,0,1,1,0,0,0,0,0,0
+Weapon,"Handaxe","AXE","wp-handaxe",149,112,3,3,0,0,0,4,6,4,0,0,0,0,0,1,1,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Battleaxe","AXE","wp-bataxe",124,640,3.5,3.5,0,0,0,5,9,0,0,0,0,15,0,4,2,0,0,0,0,0,0
+Weapon,"Small flail","FLAIL","wp-sflail",94,8,1,1,0,0,0,2,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+Weapon,"Grainflail","FLAIL","wp-flail",94,16,2,2,0,0,0,6,0,0,0,0,0,30,0,3,2,0,0,0,0,0,0
+Weapon,"","FLAIL","wp-flail",94,320,4,4,0,0,0,6,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0
+Weapon,"","FLAIL","wp-flail",94,480,5,5,0,0,0,8,0,0,0,0,0,30,0,5,2,0,0,0,0,0,0
+Weapon,"Javelin","SPEAR","wp-javelin",95,2,3,3,0,0,0,2,0,6,0,0,0,0,1,3,1,0,0,0,0,0,0
+Weapon,"Staff","SPEAR","wp-staff",95,2,4,4,0,0,0,3,0,0,0,0,0,20,0,4,3,0,0,0,0,0,0
+Weapon,"Spear","SPEAR","wp-spear",95,344,5,5,0,0,0,4,0,7,0,0,0,20,4,4,2,0,0,0,0,0,0
+Weapon,"Kaumolais spear","SPEAR","wp-kauspear",95,400,7,7,0,0,0,4,4,8,0,0,0,30,4,5,2,0,0,0,0,0,0
+Weapon,"Trident","SPEAR","wp-trident",95,160,6,6,0,0,0,4,0,5,0,0,0,10,4,4,3,0,0,0,0,0,0
+Weapon,"Small trident","SPEAR","wp-smatrid",95,120,5,5,0,0,0,3,0,4,0,0,0,0,4,3,1,0,0,0,0,0,0
+Weapon,"Wide trident","SPEAR","wp-widetrid",95,200,8,8,0,0,0,4,0,6,0,0,0,20,4,4,2,0,0,0,0,0,0
+Weapon,"Hard staff","SPEAR","wp-hrdstaff",95,16,5,5,0,0,0,4,0,0,0,0,0,25,0,4,3,0,0,0,0,0,0
+Weapon,"Northern spear","SPEAR","wp-norspear",95,360,7,7,0,0,0,4,0,8,0,0,0,10,4,3,2,0,0,0,0,0,0
+Weapon,"Ango","SPEAR","wp-ango",95,480,8,8,0,0,0,3,0,8,0,0,0,35,4,5,1,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tool,"Net","NET","it-net",35,144,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Shortbow","BOW","wp-shortbow",146,40,2,2,0,0,0,0,0,6,0,0,0,0,6,0,0,0,0,0,0,0,0
+Weapon,"Longbow","BOW","wp-longbow",146,80,4,4,0,0,0,0,0,8,0,0,0,0,7,0,0,0,0,0,0,0,0
+Weapon,"Crossbow","CROSSBOW","wp-crossbow",146,320,6,6,0,0,0,0,0,8,0,0,0,0,8,0,0,0,0,0,0,0,0
+Weapon,"Heavy Crossbow","CROSSBOW","wp-crossbow",146,400,10,10,0,0,0,0,0,9,0,0,0,0,8,0,0,0,0,0,0,0,0
+Weapon,"Juniper bow","BOW","wp-junipbow",146,16,2,2,0,0,0,0,0,6,0,0,0,0,5,0,0,0,0,0,0,0,0
+Weapon,"Northern bow","BOW","wp-northbow",146,176,3,3,0,0,0,0,0,8,0,0,0,0,5,0,0,0,0,0,0,0,0
+Weapon,"Hunting bow","BOW","wp-huntbow",146,144,4,4,0,0,0,0,0,7,0,0,0,0,5,0,0,0,0,0,0,0,0
+Weapon,"Arrow","BOW","wp-arrow",147,8,0.1,0.1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Arrow","BOW","wp-arrow",147,8,0.1,0.1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Arrow","BOW","wp-arrow",147,8,0.1,0.1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Arrow","BOW","wp-arrow",147,8,0.1,0.1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Arrow","BOW","wp-arrow",147,8,0.1,0.1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Arrow","BOW","wp-arrow",147,8,0.1,0.1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Arrow","BOW","wp-arrow",147,8,0.1,0.1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Arrow","BOW","wp-arrow",147,8,0.1,0.1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Arrow","BOW","wp-arrow",147,8,0.1,0.1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Blunt arrow","BOW","wp-blarrow",147,4,0.4415011,0.4415011,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Broadhead arrow","BOW","wp-bharrow",147,14.4,0.1766004,0.1766004,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Broad axe","AXE","wp-broaxe",124,240,5.5,5.5,0,0,0,5,6,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Weapon,"Carving axe","AXE","wp-caraxe",127,144,4.5,4.5,0,0,0,3,3,4,0,0,0,0,0,2,1,0,0,0,0,0,0
+Weapon,"Splitting axe","AXE","wp-spliaxe",3,200,6,6,0,0,0,5,5,0,0,0,0,15,0,2,1,0,0,0,0,0,0
+Weapon,"Woodsman's axe","AXE","wp-woodaxe",38,160,6,6,0,0,0,4,7,0,0,0,0,25,0,2,1,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Stone","CLUB","stone",49,0,14,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Rock","CLUB","rock",50,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood,"Board","tuntematon","it-board",48,8,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood,"Firewood","tuntematon","it-firewood",92,0.08,1.5,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood,"Log","tuntematon","log",43,8,400,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood,"Block of wood","tuntematon","wdblk",44,0,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood,"Branch","tuntematon","it-branch",45,0,0.3,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood,"Slender tree trunk","tuntematon","sltrunk",53,0,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood,"Bark","tuntematon","it-bark",45,0,2.5,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood,"Tree trunk","tuntematon","trunk",41,0,500,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood,"Wooden stake","tuntematon","it-wdstake",47,0,2.2,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood,"Spruce twig","tuntematon","it-sprtwig",45,0,0.4,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weapon,"Stone-axe","AXE","wp-stnaxe",149,0.8,4,4,0,0,0,5,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unused,"*unmatchablestring*","tuntematon","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
