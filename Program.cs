@@ -1,12 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace UrwObjDump {
-	enum UrwObjectType: byte {
+    enum UrwObjectType: byte {
 		Unused = 0,
 		Weapon = 1,
 		Armor = 2,
@@ -21,18 +20,13 @@ namespace UrwObjDump {
 		Plant = 11,
 	}
 
-	class UrwObject {
-		public UrwObjectType type;
-		public string name;
-		public string group;
-		public float weight;
-		public float weight2;
-		public float value;
-		public byte spriteIndex;
+    struct Nutrition {
 		public byte carbohydrates;
 		public byte fat;
 		public byte proteins;
+    }
 
+    struct CombatInfo {
 		public byte damageBlunt;
 		public byte damageEdge;
 		public byte damagePoint;
@@ -40,10 +34,26 @@ namespace UrwObjDump {
 		public byte tear;
 		public byte squeeze;
 		public byte warmth;
+    }
 
+    struct PlantInfo {
 		public byte mature;
 		public byte sprout;
 		public byte wither;
+    }
+
+	class UrwObject {
+		public UrwObjectType type;
+		public string name;
+		public string group;
+		public string sprite;
+		public float weight;
+		public float weight2;
+		public float value;
+		public byte spriteIndex;
+        public Nutrition nutrition;
+        public CombatInfo combatInfo;
+        public PlantInfo plantInfo;
 
 		public byte water;
 		public float valuePerLbs;
@@ -63,8 +73,10 @@ namespace UrwObjDump {
 
 			bytes = data.ReadBytes(40);
 			this.name = Encoding.UTF8.GetString(bytes, 0, Array.FindIndex(bytes, (b)=>b==0));
-			bytes = data.ReadBytes(40);
+			bytes = data.ReadBytes(27);
 			this.group = Encoding.UTF8.GetString(bytes, 0, Array.FindIndex(bytes, (b)=>b==0));
+			bytes = data.ReadBytes(13);
+			this.sprite = Encoding.UTF8.GetString(bytes, 0, Array.FindIndex(bytes, (b)=>b==0));
 
 			data.ReadBytes(1); // Unknown
 
@@ -75,39 +87,30 @@ namespace UrwObjDump {
 			this.value = data.ReadSingle();
 
 			if (type == UrwObjectType.Weapon || type == UrwObjectType.Armor) {
-				this.damageBlunt = data.ReadByte();
-				this.damageEdge = data.ReadByte();
-				this.damagePoint = data.ReadByte();
-
-				this.tear = data.ReadByte();
-				this.squeeze = data.ReadByte();
-				this.warmth = data.ReadByte();
+                this.combatInfo = ReadCombatInfo(data);
 			} else if (type == UrwObjectType.Food || type == UrwObjectType.Plant) {
-				this.carbohydrates = data.ReadByte();
-				this.fat = data.ReadByte();
-				this.proteins = data.ReadByte();
-
-				this.mature = data.ReadByte();
-				this.sprout = data.ReadByte();
-				this.wither = data.ReadByte();
+                this.nutrition = ReadNutritionInfo(data);
+                this.plantInfo = ReadPlantInfo(data);
 			} else {
 				data.ReadBytes(6);
 			}
 
 			data.ReadBytes(4); // Unknown
 
-			this.h1Penalty = data.ReadByte();
-
-			data.ReadBytes(1); // Unknown
-
-			this.accuracy = data.ReadByte();
+            if (type == UrwObjectType.Weapon) {
+                this.h1Penalty = data.ReadByte();
+                data.ReadBytes(1); // Unknown
+                this.accuracy = data.ReadByte();
+            } else {
+                data.ReadBytes(3); // Unknown
+            }
 
 			data.ReadBytes(3); // Unknown
 
 			this.weight = data.ReadSingle();  // weight for containers and wear?
 			this.weight2 = data.ReadSingle(); // weight or capacity
 
-			data.ReadBytes(28); // Unknown
+			data.ReadBytes(22); // Unknown
 
 			this.water = data.ReadByte();
 
@@ -115,7 +118,7 @@ namespace UrwObjDump {
 
 			this.valuePerLbs = data.ReadSingle();
 
-			data.ReadBytes(9); // Unknown
+			data.ReadBytes(15); // Unknown
 
 			this.quality = (byte)(data.ReadByte() & 0x0F);
 
@@ -133,7 +136,37 @@ namespace UrwObjDump {
 			data.ReadBytes(4); // Unknown
 		}
 
-		public UrwObject(BinaryReader data) {
+        private PlantInfo ReadPlantInfo(BinaryReader data) {
+            PlantInfo info;
+            info.mature = data.ReadByte();
+            info.sprout = data.ReadByte();
+            info.wither = data.ReadByte();
+            return info;
+        }
+
+        private Nutrition ReadNutritionInfo(BinaryReader data) {
+            Nutrition info;
+            info.carbohydrates = data.ReadByte();
+            info.fat = data.ReadByte();
+            info.proteins = data.ReadByte();
+            return info;
+        }
+
+        CombatInfo ReadCombatInfo(BinaryReader data) {
+            CombatInfo info;
+
+            info.damageBlunt = data.ReadByte();
+            info.damageEdge = data.ReadByte();
+            info.damagePoint = data.ReadByte();
+
+            info.tear = data.ReadByte();
+            info.squeeze = data.ReadByte();
+            info.warmth = data.ReadByte();
+
+            return info;
+        }
+
+        public UrwObject(BinaryReader data) {
 			Deserialize(data);
 		}
 	}
@@ -151,34 +184,35 @@ namespace UrwObjDump {
 
 		public static FieldWriter[] fieldWriters = new[]{
 			new FieldWriter("Type", (o) => o.type.ToString()),
-			new FieldWriter("Name", (o) => QuoteString(o.name.ToString())),
-			new FieldWriter("Group", (o) => QuoteString(o.group.ToString())),
-			new FieldWriter("Value", (o) => o.value.ToString()),
-			new FieldWriter("Weight", (o) => o.weight.ToString()),
-			new FieldWriter("Weight2", (o) => o.weight2.ToString()),
+			new FieldWriter("Name", (o) => QuoteString(o.name)),
+			new FieldWriter("Group", (o) => QuoteString(o.group)),
+			new FieldWriter("Sprite", (o) => QuoteString(o.sprite)),
 			new FieldWriter("Sprite", (o) => o.spriteIndex.ToString()),
-			new FieldWriter("Carbohydrates", (o) => o.carbohydrates.ToString()),
-			new FieldWriter("Fat", (o) => o.fat.ToString()),
-			new FieldWriter("Proteins", (o) => o.proteins.ToString()),
+			new FieldWriter("Value", (o) => o.value.ToString(CultureInfo.InvariantCulture)),
+			new FieldWriter("Weight", (o) => o.weight.ToString(CultureInfo.InvariantCulture)),
+			new FieldWriter("Weight2", (o) => o.weight2.ToString(CultureInfo.InvariantCulture)),
+			new FieldWriter("Carbohydrates", (o) => o.nutrition.carbohydrates.ToString()),
+			new FieldWriter("Fat", (o) => o.nutrition.fat.ToString()),
+			new FieldWriter("Proteins", (o) => o.nutrition.proteins.ToString()),
 
-			new FieldWriter("Blunt", (o) => FormatDamage(o.damageBlunt)),
-			new FieldWriter("Edge", (o) => FormatDamage(o.damageEdge)),
-			new FieldWriter("Point", (o) => FormatDamage(o.damagePoint)),
-			new FieldWriter("Tear", (o) => FormatDamage(o.tear)),
-			new FieldWriter("Squeeze", (o) => FormatDamage(o.squeeze)),
-			new FieldWriter("Warmth", (o) => FormatDamage(o.warmth)),
+			new FieldWriter("Blunt", (o) => FormatDamage(o.combatInfo.damageBlunt)),
+			new FieldWriter("Edge", (o) => FormatDamage(o.combatInfo.damageEdge)),
+			new FieldWriter("Point", (o) => FormatDamage(o.combatInfo.damagePoint)),
+			new FieldWriter("Tear", (o) => FormatDamage(o.combatInfo.tear)),
+			new FieldWriter("Squeeze", (o) => FormatDamage(o.combatInfo.squeeze)),
+			new FieldWriter("Warmth", (o) => FormatDamage(o.combatInfo.warmth)),
 
 			new FieldWriter("1HPenalty", (o) => o.h1Penalty.ToString()),
 			new FieldWriter("Accuracy", (o) => o.accuracy.ToString()),
 			new FieldWriter("AttackBonus", (o) => o.attackBonus.ToString()),
 			new FieldWriter("DefenseBonus", (o) => o.defenseBonus.ToString()),
 
-			new FieldWriter("Mature", (o) => o.mature.ToString()),
-			new FieldWriter("Sprout", (o) => o.sprout.ToString()),
-			new FieldWriter("Wither", (o) => o.wither.ToString()),
+			new FieldWriter("Mature", (o) => o.plantInfo.mature.ToString()),
+			new FieldWriter("Sprout", (o) => o.plantInfo.sprout.ToString()),
+			new FieldWriter("Wither", (o) => o.plantInfo.wither.ToString()),
 
 			new FieldWriter("Water", (o) => o.water.ToString()),
-			new FieldWriter("Value Per Lbs", (o) => o.valuePerLbs.ToString()),
+			new FieldWriter("Value Per Lbs", (o) => o.valuePerLbs.ToString(CultureInfo.InvariantCulture)),
 			new FieldWriter("Quality", (o) => o.quality.ToString()),
 		};
 

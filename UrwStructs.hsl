@@ -1,0 +1,119 @@
+// #pragma enumsize(4)
+// #pragma ptrsize(4)
+// #pragma enumsign("signed")
+#pragma pack(1)
+#pragma show()
+#pragma byteorder(little_endian)
+#pragma maxarray(1024)
+
+#pragma displayname("Unreal World Structs")
+#pragma fileextensions(".obj")
+
+#pragma enumsize(1)
+#pragma enumsign("unsigned")
+typedef enum ObjectType {
+    Unused = 0,
+    Weapon = 1,
+    Armor = 2,
+    Container = 3,
+    Map = 4,
+    // 5 not used
+    Tool = 6,
+    Food = 7,
+    Wood = 8,
+    Watercraft = 9,
+    Jewelry = 10,
+    Plant = 11,
+} ObjectType;
+
+
+typedef unsigned __int8 byte;
+
+
+struct Nutrition {
+    byte carbohydrates;
+    byte fat;
+    byte proteins;
+} Nutrition;
+
+
+struct PlantInfo {
+    byte mature;
+    byte sprout;
+    byte wither;
+} PlantInfo;
+
+
+struct CombatInfo {
+    byte blunt;
+    byte edge;
+    byte point;
+    byte tear;
+    byte squeez;
+    byte warmth;
+} CombatInfo;
+
+
+struct Object {
+    ObjectType      type;
+    blob            _unknown[8];
+    char            name[40];
+    char            group[27];
+    char            sprite[13];
+    blob            _unknown[1];
+    byte            old_sprite;
+    blob            _unknown[1];
+    float           value;
+
+    if (type == ObjectType.Food || type == ObjectType.Plant) {
+        Nutrition       nutrition;
+        PlantInfo       plantInfo;
+    } else if (type == ObjectType.Weapon || type == ObjectType.Armor) {
+        CombatInfo      combat;
+    } else {
+        blob            _unknown[6];
+    }
+
+    blob            _unknown[4];
+    if (type == ObjectType.Weapon) {
+        byte            oneHandPenalty;
+        blob            _unknown[1];
+        byte            accuracy;
+    } else {
+        blob            _unknown[3];
+    }
+    blob            _unknown[3];
+
+    float           weight;
+    float           weight2;
+    blob            _unknown[22];
+    byte            water;
+    blob            _unknown[3];
+    float           valuePerLbs;
+    blob            _unknown[15];
+
+    byte            quality: 4;
+    byte            unknown: 4;
+
+    blob            _unknown[1];
+    
+    if (type == ObjectType.Weapon || type == ObjectType.Armor) {
+        byte            attackBonus: 4;
+        byte            defenseBonus: 4;
+    } else {
+        blob            _unknown[1];
+    };
+    
+    blob            _unknown[4];
+} Object;
+
+
+function AutoParseObjFile {
+    UQWord pos = 0 ;
+    UQWord end = __getDocSize() ;
+
+    while (pos < end) {
+        __addStructureAt(pos, "Object", "") ;
+        pos += 172;
+    };
+}
